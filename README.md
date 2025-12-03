@@ -23,7 +23,14 @@
 
 ### 📊 **Weekly Development Breakdown**
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
 ```text
+<<<<<<< HEAD
 ⏱️  Total Time: 0 hrs 0 mins
 
 💬  Top Languages (Top 5):
@@ -44,7 +51,40 @@ Neovim        ░░░░░░░░░░░░░░░░░░░░░░
 🌌 Night       ░░░░░░░░░░░░░░░░░░░░░░░░░   0 hrs (0%)
 
 🔄 WakaTime tracking started - data updates in ~1 hour
+=======
+🌞 Morning                27 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+🌆 Daytime                50 commits          ████████░░░░░░░░░░░░░░░░░   32.89 % 
+🌃 Evening                55 commits          █████████░░░░░░░░░░░░░░░░   36.18 % 
+🌙 Night                  20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+>>>>>>> 87abe5d0f15a4c1e5267e8fb2f05f252a772eaeb
 ```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   23 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Tuesday                  26 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Wednesday                60 commits          ██████████░░░░░░░░░░░░░░░   39.47 % 
+Thursday                 3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Friday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Saturday                 22 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Sunday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Algiers
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 03/12/2025 22:11:27 UTC
 <!--END_SECTION:waka-->
 
 ---
