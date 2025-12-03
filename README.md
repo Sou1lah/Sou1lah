@@ -30,28 +30,12 @@
 **I'm an Early 🐤** 
 
 ```text
-<<<<<<< HEAD
-⏱️  Total Time: 0 hrs 0 mins
-
-💬  Top Languages (Top 5):
-Python        ░░░░░░░░░░░░░░░░░░░░░░░░░   0 hrs (0%)
-JavaScript    ░░░░░░░░░░░░░░░░░░░░░░░░░   0 hrs (0%)
-Go            ░░░░░░░░░░░░░░░░░░░░░░░░░   0 hrs (0%)
-TypeScript    ░░░░░░░░░░░░░░░░░░░░░░░░░   0 hrs (0%)
-HTML/CSS      ░░░░░░░░░░░░░░░░░░░░░░░░░   0 hrs (0%)
-
-🔥  Editors:
-VS Code       ░░░░░░░░░░░░░░░░░░░░░░░░░   0 hrs (0%)
-Neovim        ░░░░░░░░░░░░░░░░░░░░░░░░░   0 hrs (0%)
-
-🔄 WakaTime tracking started - data updates in ~1 hour
-
 🌞 Morning                27 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
 🌆 Daytime                50 commits          ████████░░░░░░░░░░░░░░░░░   32.89 % 
 🌃 Evening                55 commits          █████████░░░░░░░░░░░░░░░░   36.18 % 
 🌙 Night                  20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
->>>>>>> 87abe5d0f15a4c1e5267e8fb2f05f252a772eaeb
 ```
+
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
@@ -83,9 +67,11 @@ No Activity Tracked This Week
 
 ---
 
-[![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)]()
+[![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)]()
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
-[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)]()
 
 <img src="https://imgur.com/rilHVxA.png"/>
