@@ -23,12 +23,69 @@
 
 ### 📊 **Weekly Development Breakdown**
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+<<<<<<< HEAD
+⏱️  Total Time: 0 hrs 0 mins
+
+💬  Top Languages (Top 5):
+Python        ░░░░░░░░░░░░░░░░░░░░░░░░░   0 hrs (0%)
+JavaScript    ░░░░░░░░░░░░░░░░░░░░░░░░░   0 hrs (0%)
+Go            ░░░░░░░░░░░░░░░░░░░░░░░░░   0 hrs (0%)
+TypeScript    ░░░░░░░░░░░░░░░░░░░░░░░░░   0 hrs (0%)
+HTML/CSS      ░░░░░░░░░░░░░░░░░░░░░░░░░   0 hrs (0%)
+
+🔥  Editors:
+VS Code       ░░░░░░░░░░░░░░░░░░░░░░░░░   0 hrs (0%)
+Neovim        ░░░░░░░░░░░░░░░░░░░░░░░░░   0 hrs (0%)
+
+🔄 WakaTime tracking started - data updates in ~1 hour
+
+🌞 Morning                27 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+🌆 Daytime                50 commits          ████████░░░░░░░░░░░░░░░░░   32.89 % 
+🌃 Evening                55 commits          █████████░░░░░░░░░░░░░░░░   36.18 % 
+🌙 Night                  20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+>>>>>>> 87abe5d0f15a4c1e5267e8fb2f05f252a772eaeb
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   23 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Tuesday                  26 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Wednesday                60 commits          ██████████░░░░░░░░░░░░░░░   39.47 % 
+Thursday                 3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Friday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Saturday                 22 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Sunday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Algiers
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 03/12/2025 22:11:27 UTC
 <!--END_SECTION:waka-->
 
 ---
 
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
-[![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)]()
-[![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)]()
+[![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
+[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)]()
 
 <img src="https://imgur.com/rilHVxA.png"/>
