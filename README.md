@@ -17,7 +17,7 @@
 
 ### Spotify Playing ♫
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31txuookchndv4rkb35ayyzdm2le&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31txuookchndv4rkb35ayyzdm2le&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31txuookchndv4rkb35ayyzdm2le&redirect=true)
 
 ---
 
@@ -78,4 +78,4 @@ VS Code                  9 mins              █████░░░░░░�
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 
-<img src="https://imgur.com/rilHVxA.png"/>
+<img src="https://i.pinimg.com/736x/19/50/a0/1950a062d888e886b2f945b1a8f9debb.jpg"/>
