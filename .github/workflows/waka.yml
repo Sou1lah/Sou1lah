@@ -2,9 +2,9 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight UTC
-  workflow_dispatch:      # Manual trigger
-  push:                   # Runs on code push
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
 
 jobs:
   update-readme:
@@ -13,36 +13,31 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GH_TOKEN }}  # Added for better auth
+          token: ${{ secrets.GH_TOKEN }}
           
-      - name: Update WakaTime Stats
-        uses: anmol098/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@master
         with:
-          # Secrets
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           
-          # Time & Code Stats
+          # CRITICAL: Must match your dashboard
+          TIME_RANGE: "last_7_days"  # Shows last 7 days data
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_LINES_OF_CODE: "True"
-          TIME_RANGE: "last_7_days"  # Added: Shows last 7 days
           
-          # Languages
+          # Languages & Editors
           SHOW_LANGUAGE: "True"
-          SHOW_LANGUAGE_COUNT: "5"
+          SHOW_LANGUAGE_COUNT: "6"  # You have 6 languages
           SHOW_LANGUAGE_ICON: "True"
-          
-          # Editors
           SHOW_EDITORS: "True"
-          SHOW_EDITORS_COUNT: "3"
+          SHOW_EDITORS_COUNT: "2"   # You have 2 editors
           
           # Activity
           SHOW_COMMIT: "True"
           SHOW_DAYS_OF_WEEK: "True"
           SHOW_TIMEZONE: "True"
-          LOCALE: "en"  # Added: English formatting
           
-          # Turn off unused features
+          # Turn off unused
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
@@ -50,7 +45,5 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_PROFILE_VIEWS: "False"
           
-          # Performance
-          COMMIT_BY_ME: "false"
-          COMMITTER_NAME: "waka-readme-bot"
-          COMMITTER_EMAIL: "github-actions[bot]@users.noreply.github.com"
+          # Debug
+          DEBUG_LOGGING: "True"  # Added to see what's happening
