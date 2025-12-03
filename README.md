@@ -7,9 +7,9 @@
 - ✱ Currently focusing on Machine Learning
 - ✉ Best way to contact me: [Business Card](https://business-card-production-dcd2.up.railway.app/)
 
-[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sou1lah)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-link])
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([your-twitter-link])
+[![GitHub](https://img.shields.io/badge/Github-8B0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sou1lah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-link])
+[![Twitter](https://img.shields.io/badge/Twitter-8B0000?style=for-the-badge&logo=twitter&logoColor=white)]([your-twitter-link])
 
 ---
 
@@ -17,38 +17,28 @@
 
 ### Spotify Playing ♫
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31txuookchndv4rkb35ayyzdm2le&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31txuookchndv4rkb35ayyzdm2le&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31txuookchndv4rkb35ayyzdm2le&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&mode=dark&bar_color=8B0000&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31txuookchndv4rkb35ayyzdm2le&redirect=true)
 
 ---
 
 ### 📊 **Weekly Development Breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2017%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
 ```text
-🌞 Morning                27 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-🌆 Daytime                50 commits          ████████░░░░░░░░░░░░░░░░░   30.67 % 
-🌃 Evening                65 commits          ██████████░░░░░░░░░░░░░░░   39.88 % 
-🌙 Night                  21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+🌞 Morning                27 commits          ██████████░░░░░░░░░░░░░░░   16.56 % 
+🌆 Daytime                50 commits          ████████████████░░░░░░░░░   30.67 % 
+🌃 Evening                65 commits          ████████████████████░░░░░   39.88 % 
+🌙 Night                  21 commits          ████████░░░░░░░░░░░░░░░░░   12.88 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   23 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Tuesday                  26 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-Wednesday                70 commits          ███████████░░░░░░░░░░░░░░   42.94 % 
+Monday                   23 commits          ████████░░░░░░░░░░░░░░░░░   14.11 % 
+Tuesday                  26 commits          █████████░░░░░░░░░░░░░░░░   15.95 % 
+Wednesday                70 commits          ███████████████████████░░░   42.94 % 
 Thursday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-Friday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-Saturday                 22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Sunday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Friday                   9 commits           ███░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Saturday                 22 commits          ████████░░░░░░░░░░░░░░░░░   13.50 % 
+Sunday                   9 commits           ███░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
 ```
-
-
-📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Africa/Algiers
@@ -64,18 +54,84 @@ Git                      0 secs              ░░░░░░░░░░░�
 Neovim                   41 mins             ████████████████████░░░░░   80.50 % 
 VS Code                  9 mins              █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
 ```
-
-
- Last Updated on 03/12/2025 23:32:17 UTC
 <!--END_SECTION:waka-->
 
 ---
 
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
-[![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)]()
-[![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)]()
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
+[![VS Code](https://img.shields.io/badge/VS_Code-8B0000?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
+[![Neovim](https://img.shields.io/badge/Neovim-8B0000?style=for-the-badge&logo=neovim&logoColor=white)]()
+[![Vim](https://img.shields.io/badge/Vim-8B0000?style=for-the-badge&logo=vim&logoColor=white)]()
+[![Go](https://img.shields.io/badge/Go-8B0000?style=for-the-badge&logo=go&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-8B0000?style=for-the-badge&logo=docker&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=white)]()
 
-<img src="https://i.pinimg.com/originals/66/85/c0/6685c0909dd3b325e668c1d9b1e8ad26.gif">
+<center>
+    <img src="https://i.pinimg.com/originals/66/85/c0/6685c0909dd3b325e668c1d9b1e8ad26.gif">
+</center>
+
+<!-- HTML for custom styling -->
+<div align="center">
+  
+![Red Theme](https://img.shields.io/badge/Theme-Red-%238B0000?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Sou1lah&color=8B0000&style=flat-square)
+
+</div>
+
+<style>
+  /* Custom reddish theme styles */
+  .markdown-body {
+    color: #F5F5F5;
+    background-color: #1A0F0F;
+  }
+  
+  .markdown-body h1, 
+  .markdown-body h2, 
+  .markdown-body h3 {
+    color: #FF6B6B;
+    border-bottom: 2px solid #8B0000;
+  }
+  
+  .markdown-body a {
+    color: #FF6B6B;
+  }
+  
+  .markdown-body a:hover {
+    color: #FF9999;
+    text-decoration: underline;
+  }
+  
+  .markdown-body ul, 
+  .markdown-body ol {
+    color: #FFCCCB;
+  }
+  
+  .markdown-body code {
+    background-color: #2C1818;
+    color: #FF9999;
+    border: 1px solid #8B0000;
+  }
+  
+  .markdown-body pre {
+    background-color: #2C1818;
+    border: 2px solid #8B0000;
+    border-radius: 6px;
+  }
+  
+  .markdown-body pre code {
+    background-color: transparent;
+    border: none;
+    color: #FFCCCB;
+  }
+  
+  .markdown-body hr {
+    background-color: #8B0000;
+    height: 2px;
+    border: none;
+  }
+  
+  .markdown-body blockquote {
+    border-left: 4px solid #8B0000;
+    background-color: #2C1818;
+    color: #FFCCCB;
+  }
+</style>
