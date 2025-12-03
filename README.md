@@ -23,8 +23,6 @@
 
 ### 📊 **Weekly Development Breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -66,7 +64,7 @@ VS Code                  9 mins              █████░░░░░░�
 ```
 
 
- Last Updated on 03/12/2025 23:00:43 UTC
+ Last Updated on 03/12/2025 23:01:08 UTC
 <!--END_SECTION:waka-->
 
 ---
