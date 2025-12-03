@@ -1,3 +1,5 @@
+# Replace your entire README.md
+cat > README.md << 'EOF'
 # Hi there, I'm Sou1lah <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
@@ -23,13 +25,19 @@
 
 ### 📊 **Weekly Development Breakdown**
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+```text
+⏱️ Total Time: 0 hrs 0 mins
 
----
+💬 Top Languages:
+No data yet - Install WakaTime in VS Code!
 
-[![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
-[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)]()
+🔥 Editors:
+VS Code: Install WakaTime extension
 
-<img src="https://imgur.com/rilHVxA.png"/>
+📅 Activity Breakdown:
+☀ Morning:    0 hrs   ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+☁ Daytime:    0 hrs   ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+🌙 Evening:    0 hrs   ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+🌌 Night:      0 hrs   ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+
+📍 WakaTime tracking starts 24h after installation
