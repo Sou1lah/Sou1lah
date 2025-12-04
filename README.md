@@ -29,7 +29,7 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31txuookchndv4rkb35ayyzdm2le&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=e01b24&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31txuookchndv4rkb35ayyzdm2le&redirect=true)
 
 <details>
-    <summary><h2>▸ 🎵 Recently Played</h2></summary>
+    <summary><h2>🎵 Recently Played</h2></summary>
     ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31txuookchndv4rkb35ayyzdm2le&unique={true|1|on|yes})
 </details>
 
@@ -65,6 +65,8 @@ YAML                                        ████████████
 Neovim                                      ███████████████████████░░
 VS Code                                     █████████████████░░░░░░░░
 ```
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -98,12 +100,6 @@ VS Code                                     ████████████
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
-
-## ➦ **GitHub Trophies**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sou1lah&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7&title=Stars,Commit,Followers,Repo,PR,Issue,PullRequest" />
 </p>
 
 ---

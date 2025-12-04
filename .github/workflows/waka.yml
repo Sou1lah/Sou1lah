@@ -24,39 +24,50 @@ jobs:
           # Core stats
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_LINES_OF_CODE: "True"
+          SHOW_SHORT_INFO: "True"
           
-          # Languages & Editors
+          # Languages SECTION - separate
           SHOW_LANGUAGE: "True"
           SHOW_LANGUAGE_COUNT: "6"
           SHOW_LANGUAGE_ICON: "True"
-          SHOW_LANGUAGE_PERCENTAGE: "True"  # Add percentage
+          SHOW_LANGUAGE_PERCENTAGE: "True"
+          SHOW_TIME: "True"
+          LANGUAGE_SECTION_TITLE: "### 🗣️ Languages"
+          
+          # Editors SECTION - separate  
           SHOW_EDITORS: "True"
           SHOW_EDITORS_COUNT: "2"
-          SHOW_TIME: "True"  # Shows time values
+          SHOW_EDITORS_TIME: "True"
+          EDITOR_SECTION_TITLE: "### 🛠️ Editors"
           
-          # Additional sections with counts
+          # OS SECTION - separate
           SHOW_OS: "True"
-          SHOW_OS_COUNT: "3"  # Show top 3 OS
-          SHOW_PROJECTS: "True"
-          SHOW_PROJECTS_COUNT: "5"  # Show top 5 projects
+          SHOW_OS_COUNT: "3"
+          OS_SECTION_TITLE: "### 💻 Operating Systems"
           
-          # Other stats
+          # Projects SECTION - separate
+          SHOW_PROJECTS: "True"
+          SHOW_PROJECTS_COUNT: "5"
+          PROJECTS_SECTION_TITLE: "### 📁 Top Projects"
+          
+          # Other stats - separate sections
           SHOW_COMMIT: "True"
+          COMMIT_SECTION_TITLE: "### 📅 Commit Activity"
           SHOW_DAYS_OF_WEEK: "True"
           SHOW_TIMEZONE: "True"
           SHOW_LOC_CHART: "True"
-          SHOW_SHORT_INFO: "True"
+          LOC_SECTION_TITLE: "### 📈 Lines of Code"
           
-          # ⚠️ Profile Views - REQUIRES EXTRA SETUP ⚠️
-          SHOW_PROFILE_VIEWS: "False"  # Disable unless configured
-          # GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
-          # GIST_ID: ${{ secrets.GIST_ID }}
+          # Layout & Separation
+          LAYOUT: "default"  # NOT compact
+          SECTION_SEPARATOR: "---"  # Horizontal rule between sections
+          SHOW_CATEGORY: "False"  # Don't show "coding" category label
           
-          # Optional exclusions
+          # Disable
+          SHOW_PROFILE_VIEWS: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           
           # Customization
-          BAR_LENGTH: "15"  # Shorter progress bars
-          LAYOUT: "compact"  # More compact layout
+          BAR_LENGTH: "15"
           
           DEBUG_LOGGING: "True"
