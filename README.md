@@ -134,9 +134,6 @@
   </tr>
 </table>
 
+---
 
-<!--🎲 3D RAINBOW CONTRIBUTIONS -->
-<h2 align="center">🏗️ 3D GitHub Contributions</h2>
-
-<!-- Use specific commit hash (won't 404) -->
 <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/1254bd6/profile-3d-contrib/profile-night-rainbow.svg">
