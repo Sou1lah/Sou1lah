@@ -155,13 +155,13 @@ Linux                    51 mins             ███████████�
 </p>
 
 ---
+<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+    <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 
 ![Snake animation](https://raw.githubusercontent.com/Sou1lah/Sou1lah/output/github-contribution-grid-snake-dark.svg)
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 
 
 <!--📉METRICS - Your GitHub Stats -->
