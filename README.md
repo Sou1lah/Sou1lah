@@ -206,12 +206,5 @@ Linux                    51 mins             ███████████�
 <!--🎲 3D RAINBOW CONTRIBUTIONS -->
 <h2 align="center">🏗️ 3D GitHub Contributions</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-night-rainbow.svg" 
-       alt="Sou1lah's 3D GitHub Contributions" 
-       width="100%">
-</p>
-
-<p align="center">
-  <em>Your GitHub contributions visualized in beautiful 3D 🌈</em>
-</p>
+<!-- Use specific commit hash (won't 404) -->
+<img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/1254bd6/profile-3d-contrib/profile-night-rainbow.svg">
