@@ -2,8 +2,8 @@
   <img src="https://i.pinimg.com/originals/cf/df/32/cfdf325ca21ce58a08f0353f73db902d.gif" width="100%" height="200px">
   
   <div style="position: absolute; top: 60%; left: 50%; transform: translateX(-50%); width: 100%;">
-    <!-- Use vercel.app instead of herokuapp -->
-    <img src="https://readme-typing-svg.vercel.app?font=Orbitron&weight=800&size=30&duration=3000&color=FF0000&center=true&width=600&lines=SOU1LAH;FULL+STACK+DEVELOPER;LEARNING+MACHINE+LEARNING" />
+    <!-- Use denvercoder1's service -->
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=denvercoder1&repo=readme-typing-svg&theme=dark" />
   </div>
 </div>
 
