@@ -61,6 +61,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sou1lah&theme=dark&background=1a0f0f&border=8b0000&stroke=8b0000&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b" alt="GitHub Streak" />
 </div>
 
+<center>
+<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update_end-->
+</center>
+
+
 ## ➦ **GitHub Activity Graph**
 
 [![Sou1lah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sou1lah&bg_color=1a0f0f&color=ff6b6b&line=8b0000&point=ffcccb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -108,9 +114,6 @@
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
 
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 4th, 2025, 12:00:00 PM
-<!--RECENT_ACTIVITY:last_update_end-->
 </details>
 
 ## 🐍 Contribution Graph
