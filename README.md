@@ -93,13 +93,9 @@
 ![Snake animation](https://raw.githubusercontent.com/Sou1lah/Sou1lah/output/github-contribution-grid-snake-dark.svg)
 
 
+## 📊 3D Contribution Graph
 
-
----
-
-## 📊 3D GitHub Contributions
-
-![3D Contributions](https://github-profile-3d-contrib.vercel.app/api/?username=Sou1lah&theme=dracula)
+![3D GitHub Contributions](https://raw.githubusercontent.com/Sou1lah/Sou1lah/5a2fe5cbfd31f39152f94f63fc2a4d8be6156867/profile-3d-contrib/profile-green-animate.svg)
 
 
 <!--🖼️⭐🔱STARRED REPOS & FORK PROFILE -->
