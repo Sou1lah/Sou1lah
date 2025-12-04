@@ -103,10 +103,10 @@
 
 
 <!--🖼️⭐🔱STARRED REPOS & FORK PROFILE -->
-<h4 align="center">
+<h4 align="right">
 <table>
   <tr>
-   <img src="https://i.pinimg.com/originals/07/c6/81/07c681507e673bdf54c54c64bc89c1d6.gif" width="100"style="margin-left: 50%">
+   <img src="https://i.pinimg.com/originals/07/c6/81/07c681507e673bdf54c54c64bc89c1d6.gif" width="100" style="right">
   </tr>
   <tr>
     <td><p align="center">
