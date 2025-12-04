@@ -103,16 +103,9 @@
   <img alt="Last Activity" src="https://img.shields.io/github/last-commit/sou1lah/sou1lah?color=8B0000&style=flat-square" height="25px"/>
 </p>
 
+
 ## 📊 3D Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-green.svg" width="100%" alt="3D GitHub Contributions"/>
 </div>
-
-
-<a href="https://github.com/Sou1lah/Sou1lah">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/dark_mode.svg">
-    <img alt="Sou1lah's GitHub Profile README" src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/light_mode.svg">
-  </picture>
-</a>
