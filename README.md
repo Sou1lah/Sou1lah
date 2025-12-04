@@ -97,23 +97,11 @@
 ![Snake animation](https://raw.githubusercontent.com/Sou1lah/Sou1lah/output/github-contribution-grid-snake-dark.svg)
 
 
-<!--📉METRICS - Your GitHub Stats -->
-<h4 align="right">
-<details>
-  <summary>
-    <b>𝓢𝓸𝓾1𝓵𝓪𝓱'𝓼 𝓖𝓲𝓽𝓗𝓾𝓫 𝓜𝓮𝓽𝓻𝓲𝓬𝓼
-      <img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px>
-    </b>
-  </summary>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/github-metrics.svg" alt="Sou1lah's GitHub Metrics">
-  </p>
-</details>
-</h4>
 
 
 ---
 
+<img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/1254bd6/profile-3d-contrib/profile-night-rainbow.svg">
 
 
 <!--🖼️⭐🔱STARRED REPOS & FORK PROFILE -->
@@ -139,4 +127,16 @@
 </table>
 
 
-<img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/1254bd6/profile-3d-contrib/profile-night-rainbow.svg">
+<!--📉METRICS - Your GitHub Stats -->
+<h4 align="right">
+<details>
+  <summary>
+    <b>𝓢𝓸𝓾1𝓵𝓪𝓱'𝓼 𝓖𝓲𝓽𝓗𝓾𝓫 𝓜𝓮𝓽𝓻𝓲𝓬𝓼
+      <img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px>
+    </b>
+  </summary>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/github-metrics.svg" alt="Sou1lah's GitHub Metrics">
+  </p>
+</details>
+</h4>
