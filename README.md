@@ -38,82 +38,15 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31txuookchndv4rkb35ayyzdm2le&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=e01b24&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31txuookchndv4rkb35ayyzdm2le&redirect=true)
 
-
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31txuookchndv4rkb35ayyzdm2le&width=450)
 
 
-
 ---
 
----
 
 ## 📊 **Weekly Development Breakdown**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2051%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 313 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 8 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                51 commits          █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-🌆 Daytime                93 commits          ██████████░░░░░░░░░░░░░░░   39.08 % 
-🌃 Evening                65 commits          ███████░░░░░░░░░░░░░░░░░░   27.31 % 
-🌙 Night                  29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Tuesday                  26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Wednesday                70 commits          ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-Thursday                 79 commits          ████████░░░░░░░░░░░░░░░░░   33.19 % 
-Friday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-Saturday                 22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-Sunday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Algiers
-
-💬 Programming Languages: 
-Markdown                 26 mins             █████████████░░░░░░░░░░░░   52.10 % 
-YAML                     13 mins             ███████░░░░░░░░░░░░░░░░░░   27.39 % 
-Python                   8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-
-🔥 Editors: 
-Neovim                   41 mins             ████████████████████░░░░░   80.50 % 
-VS Code                  9 mins              █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-
-🐱‍💻 Projects: 
-Sou1lah                  41 mins             ████████████████████░░░░░   80.50 % 
-wakatime-test            8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-business card            1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-
-💻 Operating System: 
-Linux                    51 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 04/12/2025 15:41:11 UTC
 <!--END_SECTION:waka-->
 
 
