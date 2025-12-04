@@ -4,6 +4,12 @@
 </p>
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
+## Activity: 
+
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Sou1lah/Sou1lah?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/Sou1lah/Sou1lah?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Sou1lah/Sou1lah?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="Last commit" src="https://img.shields.io/github/last-commit/sou1lah/sou1lah?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
 
 ## ✆ **Connect With Me**
 
