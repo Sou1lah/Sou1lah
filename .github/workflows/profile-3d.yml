@@ -1,28 +1,30 @@
-name: Test 3D Contributions
+name: Generate 3D Contributions
 
-on: workflow_dispatch
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'  # Daily at midnight
 
 jobs:
-  test:
+  generate-3d:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
     steps:
-      - uses: actions/checkout@v4
-      
-      - name: List files
-        run: ls -la
-      
-      - name: Generate 3D
-        uses: yoshi389111/github-profile-3d-contrib@latest
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: Sou1lah
+          USERNAME: ${{ github.repository_owner }}
           
-      - name: List generated files
-        run: ls -la profile-3d-contrib/
-        
-      - name: Show file URLs
+      - name: Commit and push 3D contributions
         run: |
-          echo "Generated files:"
-          for file in profile-3d-contrib/*.svg; do
-            echo "https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/$file"
-          done
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add profile-3d-contrib/
+          git commit -m "Update 3D contribution graph [skip ci]" || echo "No changes to commit"
+          git push
