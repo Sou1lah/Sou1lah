@@ -2,15 +2,20 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=200&section=header&text=Sou1lah&fontSize=80&fontColor=FFCCCB&animation=fadeIn&fontAlignY=35" />
 </p>
-<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sou1lah&color=8B0000&style=flat-square" height="25px"/>
+  <img src="https://img.shields.io/badge/Theme-Red-%238B0000?style=flat-square" height="25px"/>
+</p>
 
 ## Activity: 
 
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Sou1lah/Sou1lah?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/Sou1lah/Sou1lah?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Sou1lah/Sou1lah?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="27px">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/Sou1lah/Sou1lah?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="27px">
 <!-- Changed to total user stars -->
-<img alt="Total GitHub Stars" src="https://img.shields.io/github/stars/Sou1lah?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="Last commit" src="https://img.shields.io/github/last-commit/sou1lah/sou1lah?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+<img alt="Total GitHub Stars" src="https://img.shields.io/github/stars/Sou1lah?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="30px">
+<img alt="Last commit" src="https://img.shields.io/github/last-commit/sou1lah/sou1lah?color=F05032&logo=git&logoColor&style=for-the-badge" height="30px">
 
 ## ✆ **Connect With Me**
 
@@ -89,15 +94,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/66/85/c0/6685c0909dd3b325e668c1d9b1e8ad26.gif" width="700" height="200" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sou1lah&color=8B0000&style=flat-square" />
-  <img src="https://img.shields.io/badge/Theme-Red-%238B0000?style=flat-square" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer&fontSize=50&fontColor=FFCCCB" />
