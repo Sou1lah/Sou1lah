@@ -166,15 +166,4 @@ Linux                    51 mins             ███████████�
   <img alt="Last Activity" src="https://img.shields.io/github/last-commit/sou1lah/sou1lah?color=8B0000&style=flat-square" height="25px"/>
 </p>
 
-<table>
-    <tr>
-        <td align="center"><a href="https://github.com/Sou1lah#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=Sou1lah&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/Sou1lah#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=Sou1lah&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-        <td rowspan="2" align="center"><a href="https://github.com/Sou1lah#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sou1lah&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/Sou1lah#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sou1lah&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/Sou1lah#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sou1lah&theme=default"/></a><a href="https://github.com/Sou1lah#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sou1lah&theme=tokyonight"/></a></td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center"><a href="https://github.com/Sou1lah#gh-light-mode-only"><img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/output/snake.svg#gh-light-mode-only" alt="Snake Animation"/></a><a href="https://github.com/Sou1lah#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/output/snake-dark.svg#gh-dark-mode-only" alt="Snake Animation"/></a></td>
-    </tr>
-</table>
+![Snake animation](https://raw.githubusercontent.com/Sou1lah/Sou1lah/output/github-contribution-grid-snake-dark.svg)
