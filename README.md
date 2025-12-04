@@ -203,19 +203,15 @@ Linux                    51 mins             ███████████�
 </table>
 
 
-<!--🎲 3D CONTRIBUTIONS - TEMPORARY -->
-<h3 align="center">🏗️ 3D GitHub Contributions</h3>
+<!--🎲 3D RAINBOW CONTRIBUTIONS -->
+<h2 align="center">🏗️ 3D GitHub Contributions</h2>
 
-<!-- Direct from action output (temporary) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg" 
-       alt="3D Contributions" 
-       width="800">
+  <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-night-rainbow.svg" 
+       alt="Sou1lah's 3D GitHub Contributions" 
+       width="100%">
 </p>
 
-<!-- Or use the animated version -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/refs/heads/main/profile-3d-contrib/profile-season-animate.svg" 
-       alt="Animated 3D Contributions" 
-       width="800">
+  <em>Your GitHub contributions visualized in beautiful 3D 🌈</em>
 </p>
