@@ -28,7 +28,6 @@
   </a>
 </p>
 
----
 
 ## ♫ Spotify Playing
 
@@ -38,8 +37,6 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31txuookchndv4rkb35ayyzdm2le&width=450)
 
-
----
 
 
 ## 📊 **Weekly Development Breakdown**
@@ -64,18 +61,26 @@
 
 [![Sou1lah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sou1lah&bg_color=1a0f0f&color=ff6b6b&line=8b0000&point=ffcccb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
 
 ## ➦ **TECHNOLOGIES**
 
 ### **Languages & Runtimes**
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
+
+<div style="position: relative;">
+  <!-- Centered badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  </p>
+  
+  <!-- Floating right GIF -->
+  <div style="position: absolute; right: 0; top: 00%; transform: translateY(-60%);">
+    <img src="https://i.pinimg.com/originals/9a/ef/26/9aef260c686f3c62996947748e89788b.gif" width="200px">
+  </div>
+</div>
 
 ### **Frameworks & Libraries**
 <p align="center">
