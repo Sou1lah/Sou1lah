@@ -85,6 +85,8 @@ VS Code                                     ████████████
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
+---
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/66/85/c0/6685c0909dd3b325e668c1d9b1e8ad26.gif" width="700" height="200" />
 </p>
