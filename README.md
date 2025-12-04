@@ -1,13 +1,4 @@
-<div align="center" style="position: relative;">
-  <img src="https://i.pinimg.com/originals/cf/df/32/cfdf325ca21ce58a08f0353f73db902d.gif" width="100%" height="200px">
-  
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%; text-align: center;">
-    <div style="color: #FF0000; font-family: Orbitron, sans-serif; font-size: 50px; font-weight: bold; text-shadow: 0 0 10px black;">
-      SOU1LAH
-    </div>
-  </div>
-</div>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=200&section=header&text=Sou1lah&fontSize=80&fontColor=FFCCCB&animation=fadeIn&fontAlignY=35" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sou1lah&color=8B0000&style=flat-square" height="25px"/>
@@ -51,10 +42,10 @@
 ---
 
 
-<!-- ## 📊 **Weekly Development Breakdown** -->
+## 📊 **Weekly Development Breakdown**
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+START_SECTION:waka
+END_SECTION:waka
 
 
 ##  GitHub Stats
