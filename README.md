@@ -106,5 +106,5 @@
 ## 📊 3D Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-night-2024.svg" width="100%" alt="3D GitHub Contributions"/>
+  <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-green.svg" width="100%" alt="3D GitHub Contributions"/>
 </div>
