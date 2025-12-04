@@ -31,7 +31,7 @@
 <details>
 <summary><h2> 🎵 Recently Played</h2></summary>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31txuookchndv4rkb35ayyzdm2le&unique={true|1|on|yes})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31txuookchndv4rkb35ayyzdm2le&width={width})
 
 </details>
 
