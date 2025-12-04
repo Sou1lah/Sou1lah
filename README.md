@@ -98,10 +98,15 @@
   <img src="https://img.shields.io/badge/Theme-Red-%238B0000?style=flat-square" height="25px"/>
 </p>
 
+<p align="center">
+  <img alt="Total GitHub Stars" src="https://img.shields.io/github/stars/Sou1lah?color=8B0000&style=flat-square" height="25px"/>
+  <img alt="Last Activity" src="https://img.shields.io/github/last-commit/sou1lah/sou1lah?color=8B0000&style=flat-square" height="25px"/>
+</p>
 
 ## 📊 3D Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D GitHub Contributions"/>
+  <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-green.svg" width="100%" alt="3D GitHub Contributions"/>
 </div>
-EOF
+
+
