@@ -61,10 +61,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sou1lah&theme=dark&background=1a0f0f&border=8b0000&stroke=8b0000&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b" alt="GitHub Streak" />
 </div>
 
-<center>
-<!--RECENT_ACTIVITY:last_update-->
-<!--RECENT_ACTIVITY:last_update_end-->
-</center>
+<p align="center">
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+</p>
 
 
 ## ➦ **GitHub Activity Graph**
@@ -104,20 +104,4 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer&fontSize=50&fontColor=FFCCCB" />
-</p>
-
-## 📈 Recent Activity
-
-<details>
-<summary>Click to view my recent activity</summary>
-
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-
-</details>
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
