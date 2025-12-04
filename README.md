@@ -43,8 +43,6 @@
 <!-- WakaTime stats will appear here automatically -->
 <!--END_SECTION:waka-->
 
-## 📊 GitHub Stats
-
 
 ## 📊 GitHub Stats
 
