@@ -129,21 +129,3 @@
     </td>
   </tr>
 </table>
-
-
-<img src="https://i.pinimg.com/originals/4a/f0/29/4af0293dedee4fca5e379d20b802f2fa.gif" width="200" height="200px" style="float: right;">
-<!--📉METRICS - Your GitHub Stats -->
-<h4 align="center">
-<details>
-  <summary>
-    <b>𝓢𝓸𝓾1𝓵𝓪𝓱'𝓼 𝓖𝓲𝓽𝓗𝓾𝓫 𝓜𝓮𝓽𝓻𝓲𝓬𝓼
-      <img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px>
-    </b>
-  </summary>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/github-metrics.svg" alt="Sou1lah's GitHub Metrics">
-  </p>
-</details>
-</h4>
-
-
