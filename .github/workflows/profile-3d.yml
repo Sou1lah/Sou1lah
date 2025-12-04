@@ -1,60 +1,32 @@
-name: Fix 3D Graphs Once
+name: GitHub-Profile-3D-Contrib
 
 on:
+  schedule:
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  fix-3d:
+  build:
     runs-on: ubuntu-latest
-    
+    name: generate-github-profile-3d-contrib
     steps:
-      # 1. Checkout code
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
+          # REMOVE fetch-depth
           token: ${{ secrets.GITHUB_TOKEN }}
-          
-      # 2. Generate 3D graphs
-      - name: Generate 3D Contribution Graph
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      
+      - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: Sou1lah
-          
-      # 3. DEBUG: Show what was generated
-      - name: Show generated files
+          USERNAME: ${{ github.repository_owner }}
+      
+      - name: Commit & Push
         run: |
-          echo "=== Generated files ==="
-          ls -la profile-3d-contrib/
-          echo "=== File sizes ==="
-          du -h profile-3d-contrib/* || true
-          
-      # 4. Use GitHub API to upload files (bypass git conflicts)
-      - name: Upload files via GitHub API
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          # Create directory first
-          for file in profile-3d-contrib/*; do
-            if [ -f "$file" ]; then
-              filename=$(basename "$file")
-              echo "Uploading: $filename"
-              
-              # Encode file content
-              content=$(base64 -w 0 "$file")
-              
-              # Upload using GitHub API
-              curl -X PUT \
-                -H "Authorization: token $GITHUB_TOKEN" \
-                -H "Accept: application/vnd.github.v3+json" \
-                "https://api.github.com/repos/Sou1lah/Sou1lah/contents/profile-3d-contrib/$filename" \
-                -d "{
-                  \"message\": \"Add 3D graph: $filename\",
-                  \"content\": \"$content\"
-                }"
-              echo ""
-            fi
-          done
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "Update 3D contribution graph" || echo "No changes to commit"
+          git push
