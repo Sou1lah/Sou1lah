@@ -85,13 +85,6 @@ VS Code                                     ████████████
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
-## ➦ **GitHub Trophies**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sou1lah&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7&title=Stars,Commit,Followers,Repo,PR,Issue,PullRequest" />
-</p>
-
----
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/66/85/c0/6685c0909dd3b325e668c1d9b1e8ad26.gif" width="700" height="200" />
