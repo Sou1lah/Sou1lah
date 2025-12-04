@@ -63,7 +63,6 @@
 </p>
 
 
-## ➦ **GitHub Activity Graph**
 
 [![Sou1lah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sou1lah&bg_color=1a0f0f&color=ff6b6b&line=8b0000&point=ffcccb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
