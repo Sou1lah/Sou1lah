@@ -1,4 +1,4 @@
-name: Fix 3D Graphs
+name: Fix 3D Graphs Once
 
 on:
   workflow_dispatch:
@@ -7,53 +7,54 @@ permissions:
   contents: write
 
 jobs:
-  fix:
+  fix-3d:
     runs-on: ubuntu-latest
+    
     steps:
-      # 1. Checkout with force to get latest
-      - uses: actions/checkout@v4
+      # 1. Checkout code
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          ref: main
           
-      # 2. Remove old 3D directory if exists
-      - name: Clean old 3D files
-        run: |
-          rm -rf profile-3d-contrib
-          
-      # 3. Generate fresh 3D graphs
-      - name: Generate 3D contribution graph
+      # 2. Generate 3D graphs
+      - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: Sou1lah
           
-      # 4. Verify files were created
-      - name: Check generated files
+      # 3. DEBUG: Show what was generated
+      - name: Show generated files
         run: |
-          echo "Files generated:"
+          echo "=== Generated files ==="
           ls -la profile-3d-contrib/
-          echo "File sizes:"
-          du -sh profile-3d-contrib/*
+          echo "=== File sizes ==="
+          du -h profile-3d-contrib/* || true
           
-      # 5. Use GitHub CLI to commit and push (more reliable)
-      - name: Commit and push with GitHub CLI
+      # 4. Use GitHub API to upload files (bypass git conflicts)
+      - name: Upload files via GitHub API
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Configure git
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # Add only 3D files
-          git add profile-3d-contrib/
-          
-          # Check for changes
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-            exit 0
-          fi
-          
-          # Create commit
-          git commit -m "Add 3D contribution graphs"
-          
-          # Force push just the 3D directory
-          git push origin HEAD:main --force-with-lease
+          # Create directory first
+          for file in profile-3d-contrib/*; do
+            if [ -f "$file" ]; then
+              filename=$(basename "$file")
+              echo "Uploading: $filename"
+              
+              # Encode file content
+              content=$(base64 -w 0 "$file")
+              
+              # Upload using GitHub API
+              curl -X PUT \
+                -H "Authorization: token $GITHUB_TOKEN" \
+                -H "Accept: application/vnd.github.v3+json" \
+                "https://api.github.com/repos/Sou1lah/Sou1lah/contents/profile-3d-contrib/$filename" \
+                -d "{
+                  \"message\": \"Add 3D graph: $filename\",
+                  \"content\": \"$content\"
+                }"
+              echo ""
+            fi
+          done
