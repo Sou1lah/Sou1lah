@@ -2,7 +2,7 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 18 * * *"  # Run at different time than WakaTime
+    - cron: "30 18 * * *"  # 18:30 UTC (different from WakaTime)
   workflow_dispatch:
 
 permissions:
@@ -14,23 +14,43 @@ jobs:
     name: generate-github-profile-3d-contrib
     
     steps:
-      - uses: actions/checkout@v5
+      # Step 1: Checkout with proper token
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GH_TOKEN }}  # ← Use same token as WakaTime
-      
-      - uses: yoshi389111/github-profile-3d-contrib@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # ← Use same token here too
-          USERNAME: ${{ github.repository_owner }}
-      
-      - name: Commit & Push
+          token: ${{ secrets.GH_TOKEN }}
+          fetch-depth: 0  # Get all history
+          
+      # Step 2: Pull latest changes BEFORE generating
+      - name: Sync with remote
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          if git diff --staged --quiet; then
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git fetch origin
+          git reset --hard origin/main
+          
+      # Step 3: Generate 3D graph
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          
+      # Step 4: Commit and push with proper sync
+      - name: Commit and push changes
+        run: |
+          # Check if there are changes
+          if git diff --quiet && git diff --staged --quiet; then
             echo "No changes to commit"
-          else
-            git commit -m "chore: update 3D contribution graph"
-            git push
+            exit 0
           fi
+          
+          # Add and commit
+          git add -A .
+          git commit -m "chore: update 3D contribution graph [auto]"
+          
+          # Pull latest changes again before push
+          git pull origin main --rebase --autostash
+          
+          # Push changes
+          git push origin main
