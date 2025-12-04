@@ -114,7 +114,7 @@
 <h4 align="center">
 <table>
   <tr>
-   <img src="https://i.pinimg.com/originals/07/c6/81/07c681507e673bdf54c54c64bc89c1d6.gif" width="100"style="align: right">
+   <img src="https://i.pinimg.com/originals/07/c6/81/07c681507e673bdf54c54c64bc89c1d6.gif" width="100"style="margin-left: 100px">
   </tr>
   <tr>
     <td><p align="center">
