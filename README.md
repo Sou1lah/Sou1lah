@@ -109,4 +109,29 @@
   <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-green.svg" width="100%" alt="3D GitHub Contributions"/>
 </div>
 
+## 🎨 3D Contribution Graph
 
+### Choose Your Theme:
+
+<div align="center">
+  
+**🌙 Dark Theme (Recommended)**
+<img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-night-view.svg" width="100%"/>
+
+**🌿 Green Theme**
+<img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-green.svg" width="100%"/>
+
+**🌀 Animated Green**
+<img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-green-animate.svg" width="100%"/>
+
+**🍂 Season Theme**
+<img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-season.svg" width="100%"/>
+
+**🌈 Night Rainbow**
+<img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+
+**🔲 GitBlock Theme**
+<img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-gitblock.svg" width="100%"/>
+
+</div>
+EOF
