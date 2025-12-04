@@ -93,3 +93,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer&fontSize=50&fontColor=FFCCCB" />
 </p>
+
+<details>
+<summary>My recent activity</summary>
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+</details>
