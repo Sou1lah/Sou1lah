@@ -104,24 +104,20 @@
 
 <!--🖼️⭐🔱STARRED REPOS & FORK PROFILE -->
 <h4 align="center">
-<table width="100%" style="border: none; border-collapse: collapse;">
+<table>
   <tr>
-    <td width="50%"></td>
-    <td width="50%" align="right" style="border: none;">
-      <img src="https://i.pinimg.com/originals/07/c6/81/07c681507e673bdf54c54c64bc89c1d6.gif" width="100">
-    </td>
+   <img src="https://i.pinimg.com/originals/07/c6/81/07c681507e673bdf54c54c64bc89c1d6.gif" width="100"style="margin-left: 50%">
   </tr>
   <tr>
-    <td align="center" style="border: none;">
+    <td><p align="center">
       <a href="https://github.com/Sou1lah?tab=stars">
         <b>⭐ MY STARRED REPOS <br>AND TOPICS ⭐</b>
       </a>
     </td>
-    <td align="center" style="border: none;">
+    <td><p align="center">
       <a href="https://github.com/Sou1lah/Sou1lah/edit/main/README.md">
         <b>🚀 FORK THIS PROFILE <br>WITH EASY EDITING 🚀</b>
       </a>
     </td>
   </tr>
 </table>
-</h4>
