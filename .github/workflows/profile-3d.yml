@@ -1,8 +1,8 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule:
-    - cron: "30 18 * * *"  # 18:30 UTC (different from WakaTime)
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 permissions:
@@ -12,45 +12,22 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
-    
     steps:
-      # Step 1: Checkout with proper token
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
-          token: ${{ secrets.GH_TOKEN }}
-          fetch-depth: 0  # Get all history
+          token: ${{ secrets.GH_TOKEN }}  # ← ADD THIS LINE
           
-      # Step 2: Pull latest changes BEFORE generating
-      - name: Sync with remote
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git fetch origin
-          git reset --hard origin/main
-          
-      # Step 3: Generate 3D graph
-      - name: Generate 3D contribution graph
-        uses: yoshi389111/github-profile-3d-contrib@latest
+      - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # ← CHANGE THIS TO GH_TOKEN
           USERNAME: ${{ github.repository_owner }}
           
-      # Step 4: Commit and push with proper sync
-      - name: Commit and push changes
+      - name: Commit & Push
         run: |
-          # Check if there are changes
-          if git diff --quiet && git diff --staged --quiet; then
-            echo "No changes to commit"
-            exit 0
-          fi
-          
-          # Add and commit
+          git config user.name github-actions
+          git config user.email github-actions@github.com
           git add -A .
-          git commit -m "chore: update 3D contribution graph [auto]"
-          
-          # Pull latest changes again before push
-          git pull origin main --rebase --autostash
-          
-          # Push changes
-          git push origin main
+          if git commit -m "generated"; then
+            git pull --rebase origin main  # ← ADD THIS LINE BEFORE PUSH
+            git push
+          fi
