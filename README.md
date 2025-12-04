@@ -166,7 +166,8 @@ Linux                    51 mins             ███████████�
   <img alt="Last Activity" src="https://img.shields.io/github/last-commit/sou1lah/sou1lah?color=8B0000&style=flat-square" height="25px"/>
 </p>
 
-
-# Hello, I'm Sou1lah 👋
-
-![](./profile-3d-contrib/profile-green-animate.svg)
+<tr>
+    <td colspan="2" align="center">
+        <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/output/snake.svg" alt="Snake animation" />
+    </td>
+</tr>
