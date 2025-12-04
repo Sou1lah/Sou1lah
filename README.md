@@ -11,7 +11,11 @@
 
 ## Activity: 
 
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Sou1lah/Sou1lah?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="27px"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/Sou1lah/Sou1lah?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="27px"> <img alt="Total GitHub Stars" src="https://img.shields.io/github/stars/Sou1lah?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="30px"> <img alt="Last commit" src="https://img.shields.io/github/last-commit/sou1lah/sou1lah?color=F05032&logo=git&logoColor&style=for-the-badge" height="30px">
+<div align="center">
+  <img alt="Total Repo Size" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Sou1lah/repos?per_page=100&query=$.reduce((sum,repo)=>sum+repo.size,0)&suffix=KB&label=Total%20Repo%20Size&color=181717&logo=github&style=for-the-badge&logoColor=181717" height="28px">
+  <img alt="Total GitHub Stars" src="https://img.shields.io/github/stars/Sou1lah?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="28px">
+  <img alt="Last Activity" src="https://img.shields.io/github/last-commit/sou1lah/sou1lah?color=F05032&logo=git&logoColor&style=for-the-badge" height="28px">
+</div>
 
 ## ✆ **Connect With Me**
 
