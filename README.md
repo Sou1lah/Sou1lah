@@ -203,23 +203,19 @@ Linux                    51 mins             ███████████�
 </table>
 
 
-<!-- Main 3D Graph -->
-<img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-night-rainbow.svg" 
-     alt="3D GitHub Contributions" 
-     width="100%">
+<!--🎲 3D CONTRIBUTIONS - TEMPORARY -->
+<h3 align="center">🏗️ 3D GitHub Contributions</h3>
 
-<!-- Alternative: Skyline view -->
-<img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-skyline.svg" 
-     alt="GitHub Skyline" 
-     width="100%">
+<!-- Direct from action output (temporary) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg" 
+       alt="3D Contributions" 
+       width="800">
+</p>
 
-<!-- All available themes -->
-<img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-green.svg" 
-     alt="Green Theme" 
-     width="100%">
-<img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-night-green.svg" 
-     alt="Night Green" 
-     width="100%">
-<img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-github.svg" 
-     alt="GitHub Theme" 
-     width="100%">
+<!-- Or use the animated version -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/refs/heads/main/profile-3d-contrib/profile-season-animate.svg" 
+       alt="Animated 3D Contributions" 
+       width="800">
+</p>
