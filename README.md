@@ -157,3 +157,41 @@ Linux                    51 mins             ███████████�
 ---
 
 ![Snake animation](https://raw.githubusercontent.com/Sou1lah/Sou1lah/output/github-contribution-grid-snake-dark.svg)
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+
+
+<!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
+<h4 align="right">
+<details><summary><b>𝓟&nbsp;𝓡&nbsp;𝓞&nbsp;𝓕&nbsp;𝓘&nbsp;𝓛&nbsp;𝓔&nbsp;&nbsp; 𝓜&nbsp;𝓔&nbsp;𝓣&nbsp;𝓡&nbsp;𝓘&nbsp;𝓒&nbsp;𝓢<img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px></b></summary>
+<p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/github-metrics.svg">
+</p>
+</details>
+
+
+<!--🖼️⭐🔱STARRED REPOS & FORK PROFILE -->
+<h4 align="right">
+<table>
+  <tr>
+   <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">&nbsp;&nbsp;&nbsp;&nbsp;
+  </tr>
+  <tr>
+    <td><p align="center">
+      <a href="https://github.com/Sou1lah?tab=stars">
+        <b>⭐ MY STARRED REPOS <br>AND TOPICS ⭐</b>
+      </a>
+    </td>
+    <td><p align="center">
+      <a href="https://github.com/Sou1lah/Sou1lah/edit/main/README.md">
+        <b>🚀 FORK THIS PROFILE <br>WITH EASY EDITING 🚀</b>
+      </a>
+    </td>
+  </tr>
+</table>
