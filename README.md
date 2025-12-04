@@ -1,7 +1,11 @@
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=200&section=header&text=Sou1lah&fontSize=80&fontColor=FFCCCB&animation=fadeIn&fontAlignY=35" />
-</p>
+<div align="center" style="position: relative;">
+  <img src="https://i.pinimg.com/originals/cf/df/32/cfdf325ca21ce58a08f0353f73db902d.gif" width="100%" height="200px">
+  
+  <!-- MULTIPLE LINES - Each types separately -->
+  <div style="position: absolute; top: 60%; left: 50%; transform: translateX(-50%); width: 100%;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=30&duration=3000&color=FF0000&center=true&width=600&lines=SOU1LAH;FULL+STACK+DEVELOPER; LEARNING+MACHINE+LEARNING" />
+  </div>
+</div>
 
 
 <p align="center">
@@ -37,6 +41,8 @@
 ## ♫ Spotify Playing
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31txuookchndv4rkb35ayyzdm2le&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=e01b24&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31txuookchndv4rkb35ayyzdm2le&redirect=true)
+
+
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31txuookchndv4rkb35ayyzdm2le&width=450)
 
@@ -105,12 +111,11 @@
 
 
 <!--🖼️⭐🔱STARRED REPOS & FORK PROFILE -->
-<h4 align="right">
+<h4 align="center">
 <table>
   <tr>
-   <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="90">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://i.pinimg.com/originals/07/c6/81/07c681507e673bdf54c54c64bc89c1d6.gif" width="100"style="margin-right: 30px">
+   <img src="https://i.pinimg.com/originals/0f/a6/d8/0fa6d803adde67a88849ebb93fe010b6.gif" width="150"style="margin-left: 200px">
   </tr>
   <tr>
     <td><p align="center">
@@ -127,8 +132,9 @@
 </table>
 
 
+<img src="https://i.pinimg.com/originals/4a/f0/29/4af0293dedee4fca5e379d20b802f2fa.gif" width="200" height="200px" style="float: right;">
 <!--📉METRICS - Your GitHub Stats -->
-<h4 align="right">
+<h4 align="center">
 <details>
   <summary>
     <b>𝓢𝓸𝓾1𝓵𝓪𝓱'𝓼 𝓖𝓲𝓽𝓗𝓾𝓫 𝓜𝓮𝓽𝓻𝓲𝓬𝓼
@@ -140,3 +146,6 @@
   </p>
 </details>
 </h4>
+
+<img src="https://www.nicepng.com/png/detail/152-1524796_dante-png-transparent-image-dante-marvel-vs-capcom.png" />
+
