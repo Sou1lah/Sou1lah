@@ -52,10 +52,6 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sou1lah&show_icons=true&theme=dark&bg_color=1a0f0f&title_color=ff6b6b&icon_color=8b0000&border_color=8b0000&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sou1lah&layout=compact&theme=dark&bg_color=1a0f0f&title_color=ff6b6b&border_color=8b0000&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sou1lah&theme=dark&background=1a0f0f&border=8b0000&stroke=8b0000&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b" alt="GitHub Streak" />
