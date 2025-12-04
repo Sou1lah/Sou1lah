@@ -1,32 +1,51 @@
-name: GitHub-Profile-3D-Contrib
+name: Push 3D Files One-Time
 
 on:
-  schedule:
-    - cron: "0 18 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  push-files:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v4
         with:
-          # REMOVE fetch-depth
           token: ${{ secrets.GITHUB_TOKEN }}
-      
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+          fetch-depth: 0
+          
+      # Create the 3D files
+      - name: Generate 3D graphs
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      
-      - name: Commit & Push
+          USERNAME: Sou1lah  # Hardcode your username
+          
+      # Force push ONLY the 3D directory
+      - name: Force push 3D files
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "Update 3D contribution graph" || echo "No changes to commit"
-          git push
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          
+          # Create a new branch for 3D files
+          git checkout -b 3d-files
+          
+          # Add only 3D files
+          git add profile-3d-contrib/
+          
+          # Check if we have changes
+          if git diff --cached --quiet; then
+            echo "No 3D files generated"
+            exit 0
+          fi
+          
+          # Commit
+          git commit -m "Add 3D contribution graphs"
+          
+          # Push to main using force for just these files
+          git checkout main
+          git checkout 3d-files -- profile-3d-contrib/
+          git add profile-3d-contrib/
+          git commit -m "Add 3D contribution graphs"
+          git push origin main
