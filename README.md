@@ -103,23 +103,21 @@
 
 
 <!--🖼️⭐🔱STARRED REPOS & FORK PROFILE -->
-<h4 align="center">
-<table width="100%" style="border: 0px !important; border-spacing: 0; border-collapse: collapse;">
-    <td width="50%" style="border: 0px !important; padding: 0;">
-    <td width="50%" align="right" style="border: 0px !important; padding: 0;">
-      <img src="https://i.pinimg.com/originals/07/c6/81/07c681507e673bdf54c54c64bc89c1d6.gif" width="100">
-    </td>
-  <tr>
-    <td align="center" style="border: 0px !important; padding: 10px;">
-      <a href="https://github.com/Sou1lah?tab=stars">
-        <b>⭐ MY STARRED REPOS <br>AND TOPICS ⭐</b>
-      </a>
-    </td>
-    <td align="center" style="border: 0px !important; padding: 10px;">
-      <a href="https://github.com/Sou1lah/Sou1lah/edit/main/README.md">
-        <b>🚀 FORK THIS PROFILE <br>WITH EASY EDITING 🚀</b>
-      </a>
-    </td>
-  </tr>
-</table>
+<h4 align="center" style="margin-top: 0; padding-top: 0;">
+<div style="text-align: right; margin-bottom: 20px;">
+  <img src="https://i.pinimg.com/originals/07/c6/81/07c681507e673bdf54c54c64bc89c1d6.gif" width="100">
+</div>
+
+<div style="display: flex; justify-content: center; gap: 50px;">
+  <div>
+    <a href="https://github.com/Sou1lah?tab=stars">
+      <b>⭐ MY STARRED REPOS <br>AND TOPICS ⭐</b>
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/Sou1lah/Sou1lah/edit/main/README.md">
+      <b>🚀 FORK THIS PROFILE <br>WITH EASY EDITING 🚀</b>
+    </a>
+  </div>
+</div>
 </h4>
