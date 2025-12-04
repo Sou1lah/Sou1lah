@@ -94,10 +94,6 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer&fontSize=50&fontColor=FFCCCB" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sou1lah&color=8B0000&style=flat-square" height="25px"/>
   <img src="https://img.shields.io/badge/Theme-Red-%238B0000?style=flat-square" height="25px"/>
 </p>
@@ -110,8 +106,7 @@
 ## 📊 3D Contribution Graph
 
 <div align="center">
-  <img src="https://github.com/Sou1lah/Sou1lah/blob/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contributions" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-night-2024.svg" width="100%" alt="3D GitHub Contributions"/>
 </div>
 
-## 📅 Activity
-<!-- Your activity sections here -->
+<!-- Your other sections below -->
