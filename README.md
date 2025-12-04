@@ -100,8 +100,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer&fontSize=50&fontColor=FFCCCB" />
 </p>
 
+## 📈 Recent Activity
+
 <details>
-<summary>My recent activity</summary>
+<summary>Click to view my recent activity</summary>
+
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
+
+<!--RECENT_ACTIVITY:last_update-->
+Last Updated: Friday, December 4th, 2025, 12:00:00 PM
+<!--RECENT_ACTIVITY:last_update_end-->
 </details>
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
