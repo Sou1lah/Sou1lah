@@ -1,15 +1,34 @@
-name: Update Total Repo Size
+name: Update Repo Size Badge
 on:
   schedule:
-    - cron: '0 0 * * 0'  # Weekly
+    - cron: '0 0 * * 0'
   workflow_dispatch:
 
 jobs:
   update-badge:
     runs-on: ubuntu-latest
     steps:
-      - name: Calculate total repo size
-        uses: ankitskvmdam/github-repo-size-badge-action@v1
-        with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          username: Sou1lah
+      - uses: actions/checkout@v3
+      
+      - name: Calculate size
+        id: size
+        run: |
+          # Simple API call to get total size
+          SIZE_KB=$(curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
+            "https://api.github.com/users/Sou1lah/repos" | \
+            jq '[.[].size] | add')
+          
+          SIZE_MB=$(echo "scale=2; $SIZE_KB / 1024" | bc)
+          echo "size_mb=$SIZE_MB" >> $GITHUB_OUTPUT
+          
+      - name: Update README
+        run: |
+          sed -i "s/!\[Total Repo Size\].*/![Total Repo Size](https:\/\/img.shields.io\/badge\/Total%20Repo%20Size-${{ steps.size.outputs.size_mb }}MB-181717?logo=github\&style=for-the-badge)/" README.md
+          
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "📊 Update repo size badge: ${{ steps.size.outputs.size_mb }}MB" || exit 0
+          git push
