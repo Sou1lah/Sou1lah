@@ -1,28 +1,24 @@
 name: 3D Contributions
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+    - cron: '0 0 * * *'
   workflow_dispatch:
-  push:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     
     steps:
-      # Step 1: Checkout repository using your GH_TOKEN
       - uses: actions/checkout@v3
         with:
           token: ${{ secrets.GH_TOKEN }}
           
-      # Step 2: Generate the 3D contribution graph
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           
-      # Step 3: Commit and push the generated graph
-      - name: Commit and Push Changes
+      - name: Commit and Push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
