@@ -44,13 +44,13 @@
 ---
 
 
-## 📊 **Weekly Development Breakdown**
+<!-- ## 📊 **Weekly Development Breakdown** -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 
 <div align="center">
