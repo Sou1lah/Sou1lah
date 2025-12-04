@@ -169,10 +169,4 @@ Linux                    51 mins             ███████████�
 
 ## 📊 3D Contribution Graph
 
-<!-- Night View (Dark Blue) - RECOMMENDED -->
-
-<!-- Green -->
-<img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-green.svg"/>
-
-<!-- GitBlock -->
-<img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-gitblock.svg"/>
+![3D Contribution Graph](https://github-profile-3d-contrib.vercel.app/api?username=Sou1lah&theme=dark)
