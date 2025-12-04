@@ -1,9 +1,10 @@
 <div align="center" style="position: relative;">
   <img src="https://i.pinimg.com/originals/cf/df/32/cfdf325ca21ce58a08f0353f73db902d.gif" width="100%" height="200px">
   
-  <div style="position: absolute; top: 60%; left: 50%; transform: translateX(-50%); width: 100%;">
-    <!-- Use denvercoder1's service -->
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=denvercoder1&repo=readme-typing-svg&theme=dark" />
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%; text-align: center;">
+    <div style="color: #FF0000; font-family: Orbitron, sans-serif; font-size: 50px; font-weight: bold; text-shadow: 0 0 10px black;">
+      SOU1LAH
+    </div>
   </div>
 </div>
 
