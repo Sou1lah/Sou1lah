@@ -168,5 +168,6 @@ Linux                    51 mins             ███████████�
 
 
 ## 📊 3D Contribution Graph
-
-![3D Contribution Graph](https://github-profile-3d-contrib.vercel.app/api?username=Sou1lah&theme=dark)
+<!-- 3D Contribution Graph Section -->
+![](./profile-3d-contrib/profile-green-animate.svg)
+<!-- or choose another theme from the generated files -->

@@ -2,7 +2,7 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 17 * * *"  # Run at 17:00 UTC (1 hour before Waka)
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 permissions:
@@ -15,9 +15,8 @@ jobs:
     steps:
       - uses: actions/checkout@v5
         with:
+          # REMOVE fetch-depth
           token: ${{ secrets.GITHUB_TOKEN }}
-          # ADD THIS LINE:
-          fetch-depth: 0
       
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
@@ -29,10 +28,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          if git commit -m "Update 3D contribution graph"; then
-            # FIXED: Pull with rebase to handle conflicts
-            git pull --rebase origin main --autostash
-            git push origin main
-          else
-            echo "No changes to commit"
-          fi
+          git commit -m "Update 3D contribution graph" || echo "No changes to commit"
+          git push
