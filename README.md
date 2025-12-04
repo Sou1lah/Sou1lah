@@ -106,8 +106,12 @@
 
 ## 📊 3D Contribution Graph
 
+<!-- Original Green -->
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-green-animate.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-green.svg" width="100%" alt="3D GitHub Contributions"/>
 </div>
 
-
+<!-- Animated Green -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="Animated 3D GitHub Contributions"/>
+</div>
