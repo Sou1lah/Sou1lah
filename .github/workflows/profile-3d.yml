@@ -1,4 +1,4 @@
-name: Push 3D Files One-Time
+name: Fix 3D Graphs
 
 on:
   workflow_dispatch:
@@ -7,45 +7,53 @@ permissions:
   contents: write
 
 jobs:
-  push-files:
+  fix:
     runs-on: ubuntu-latest
     steps:
+      # 1. Checkout with force to get latest
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          fetch-depth: 0
+          ref: main
           
-      # Create the 3D files
-      - name: Generate 3D graphs
+      # 2. Remove old 3D directory if exists
+      - name: Clean old 3D files
+        run: |
+          rm -rf profile-3d-contrib
+          
+      # 3. Generate fresh 3D graphs
+      - name: Generate 3D contribution graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: Sou1lah  # Hardcode your username
+          USERNAME: Sou1lah
           
-      # Force push ONLY the 3D directory
-      - name: Force push 3D files
+      # 4. Verify files were created
+      - name: Check generated files
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          echo "Files generated:"
+          ls -la profile-3d-contrib/
+          echo "File sizes:"
+          du -sh profile-3d-contrib/*
           
-          # Create a new branch for 3D files
-          git checkout -b 3d-files
+      # 5. Use GitHub CLI to commit and push (more reliable)
+      - name: Commit and push with GitHub CLI
+        run: |
+          # Configure git
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           
           # Add only 3D files
           git add profile-3d-contrib/
           
-          # Check if we have changes
+          # Check for changes
           if git diff --cached --quiet; then
-            echo "No 3D files generated"
+            echo "No changes to commit"
             exit 0
           fi
           
-          # Commit
+          # Create commit
           git commit -m "Add 3D contribution graphs"
           
-          # Push to main using force for just these files
-          git checkout main
-          git checkout 3d-files -- profile-3d-contrib/
-          git add profile-3d-contrib/
-          git commit -m "Add 3D contribution graphs"
-          git push origin main
+          # Force push just the 3D directory
+          git push origin HEAD:main --force-with-lease
