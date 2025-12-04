@@ -106,6 +106,17 @@
 
 ## 📊 3D Contribution Graph
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-green.svg" width="100%" alt="3D GitHub Contributions"/>
-</div>
+<!-- Night View (Dark Blue) - RECOMMENDED -->
+<img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-night-view.svg"/>
+
+<!-- Green -->
+<img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-green.svg"/>
+
+<!-- GitBlock -->
+<img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-gitblock.svg"/>
+
+<!-- Night Rainbow -->
+<img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+
+<!-- Season -->
+<img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-season.svg"/>
