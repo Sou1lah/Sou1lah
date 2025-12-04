@@ -174,5 +174,3 @@ Linux                    51 mins             ███████████�
 <!-- Green -->
 <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-green.svg"/>
 
-<!-- GitBlock -->
-<img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-gitblock.svg"/>
