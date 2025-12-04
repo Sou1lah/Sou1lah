@@ -9,12 +9,11 @@
   <img src="https://img.shields.io/badge/Theme-Red-%238B0000?style=flat-square" height="25px"/>
 </p>
 
-## Activity: 
+<p align="center">
+  <img alt="Total GitHub Stars" src="https://img.shields.io/github/stars/Sou1lah?color=8B0000&style=flat-square" height="25px"/>
+  <img alt="Last Activity" src="https://img.shields.io/github/last-commit/sou1lah/sou1lah?color=8B0000&style=flat-square" height="25px"/>
+</p>
 
-<div align="center">
-  <img alt="Total GitHub Stars" src="https://img.shields.io/github/stars/Sou1lah?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="28px">
-  <img alt="Last Activity" src="https://img.shields.io/github/last-commit/sou1lah/sou1lah?color=F05032&logo=git&logoColor&style=for-the-badge" height="28px">
-</div>
 
 ## ✆ **Connect With Me**
 
