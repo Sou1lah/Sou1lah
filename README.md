@@ -154,25 +154,34 @@ Linux                    51 mins             ███████████�
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
+---
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <p align="center">
     <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ![Snake animation](https://raw.githubusercontent.com/Sou1lah/Sou1lah/output/github-contribution-grid-snake-dark.svg)
 
 
-
-
+<!--📉METRICS - Your GitHub Stats -->
+<h4 align="right">
+<details><summary><b>𝓢𝓸𝓾1𝓵𝓪𝓱'𝓼 𝓖𝓲𝓽𝓗𝓾𝓫 𝓜𝓮𝓽𝓻𝓲𝓬𝓼<img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px></b></summary>
+<p>
+<p align="center">
+<!-- Replace with YOUR metrics URL -->
+<img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/github-metrics.svg" alt="Sou1lah's GitHub Metrics">
+</p>
+</details>
 
 
 <!--🖼️⭐🔱STARRED REPOS & FORK PROFILE -->
 <h4 align="right">
 <table>
   <tr>
-   <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="90">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">&nbsp;&nbsp;&nbsp;&nbsp;
   </tr>
   <tr>
@@ -188,14 +197,3 @@ Linux                    51 mins             ███████████�
     </td>
   </tr>
 </table>
-
-
-
-<h4 align="right">
-<details><summary><b>𝓢𝓸𝓾1𝓵𝓪𝓱'𝓼 𝓖𝓲𝓽𝓗𝓾𝓫 𝓜𝓮𝓽𝓻𝓲𝓬𝓼<img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px></b></summary>
-<p>
-<p align="center">
-<!-- Replace with YOUR metrics URL -->
-<img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/github-metrics.svg" alt="Sou1lah's GitHub Metrics">
-</p>
-</details>
