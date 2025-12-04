@@ -98,60 +98,10 @@
   <img src="https://img.shields.io/badge/Theme-Red-%238B0000?style=flat-square" height="25px"/>
 </p>
 
-<p align="center">
-  <img alt="Total GitHub Stars" src="https://img.shields.io/github/stars/Sou1lah?color=8B0000&style=flat-square" height="25px"/>
-  <img alt="Last Activity" src="https://img.shields.io/github/last-commit/sou1lah/sou1lah?color=8B0000&style=flat-square" height="25px"/>
-</p>
-
 
 ## 📊 3D Contribution Graph
 
-<!-- Original Green -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-green.svg" width="100%" alt="3D GitHub Contributions"/>
+  <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D GitHub Contributions"/>
 </div>
-
-<!-- Animated Green -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="Animated 3D GitHub Contributions"/>
-</div>
-
-<!-- Season Theme -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-season.svg" width="100%" alt="Season 3D Contributions"/>
-</div>
-
-<!-- Animated Season -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-season-animate.svg" width="100%" alt="Animated Season Contributions"/>
-</div>
-
-<!-- South Season -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-south-season.svg" width="100%" alt="Southern Season Contributions"/>
-</div>
-
-<!-- Animated South Season -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-south-season-animate.svg" width="100%" alt="Animated Southern Contributions"/>
-</div>
-
-<!-- Night View (Blue) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="Night View 3D Contributions"/>
-</div>
-
-<!-- Night Green -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="Dark Green 3D Contributions"/>
-</div>
-
-<!-- Night Rainbow -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Rainbow Night Contributions"/>
-</div>
-
-<!-- GitBlock (GitHub-style) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-gitblock.svg" width="100%" alt="GitBlock 3D Contributions"/>
-</div>
+EOF
