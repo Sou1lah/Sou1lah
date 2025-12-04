@@ -169,8 +169,5 @@ Linux                    51 mins             ███████████�
 
 ## 📊 3D Contribution Graph
 
-<!-- Night View (Dark Blue) - RECOMMENDED -->
-
-<!-- Green -->
 <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-green.svg"/>
 
