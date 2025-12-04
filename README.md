@@ -1,7 +1,7 @@
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=200&section=header&text=Sou1lah&fontSize=80&fontColor=FFCCCB&animation=fadeIn&fontAlignY=35" />
-</p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=200&section=header&text=Sou1lah&fontSize=80&fontColor=FFCCCB&animation=fadeIn&fontAlignY=35" />
+</p>
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
 
@@ -22,34 +22,39 @@
   </a>
 </p>
 
+---
 
 ## ♫ Spotify Playing
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31txuookchndv4rkb35ayyzdm2le&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=e01b24&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31txuookchndv4rkb35ayyzdm2le&redirect=true)
 
+<details>
+    <summary><h2>▸ 🎵 Recently Played</h2></summary>
+    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31txuookchndv4rkb35ayyzdm2le&unique={true|1|on|yes})
+</details>
+
 ---
 
 ## ➦ **Weekly Development Breakdown**
 
-```text
+```python
 🌅 Morning                27 commits          ██████████░░░░░░░░░░░░░░░
 ☀️ Daytime                50 commits          ████████████████░░░░░░░░░
 🌄 Evening                65 commits          ████████████████████░░░░░
 🌕 Night                  21 commits          ████████░░░░░░░░░░░░░░░░░
-
 ```
 
-```text
-1. Monday                 23 commits          ████████░░░░░░░░░░░░░░░░░
-2. Tuesday                26 commits          █████████░░░░░░░░░░░░░░░░
-3. Wednesday              70 commits          ███████████████████████░░░
-4. Thursday               4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░
-5. Friday                 9 commits           ███░░░░░░░░░░░░░░░░░░░░░░
-6. Saturday               22 commits          ████████░░░░░░░░░░░░░░░░░
-7. Sunday                 9 commits           ███░░░░░░░░░░░░░░░░░░░░░░
+```python
+1 -> Monday                 23 commits          ████████░░░░░░░░░░░░░░░░░
+2 -> Tuesday                26 commits          █████████░░░░░░░░░░░░░░░░
+3 -> Wednesday              70 commits          ███████████████████████░░
+4 -> Thursday               4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░
+5 -> Friday                 9 commits           ███░░░░░░░░░░░░░░░░░░░░░░
+6 -> Saturday               22 commits          ████████░░░░░░░░░░░░░░░░░
+7 -> Sunday                 9 commits           ███░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-```text
+```python
 📍 Time Zone: Africa/Algiers
 
 ⌨️ Languages & Editors:
@@ -60,6 +65,16 @@ YAML                                        ████████████
 Neovim                                      ███████████████████████░░
 VS Code                                     █████████████████░░░░░░░░
 ```
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sou1lah&show_icons=true&theme=dark&bg_color=1a0f0f&title_color=ff6b6b&icon_color=8b0000&border_color=8b0000&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sou1lah&layout=compact&theme=dark&bg_color=1a0f0f&title_color=ff6b6b&border_color=8b0000&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sou1lah&theme=dark&background=1a0f0f&border=8b0000&stroke=8b0000&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b" alt="GitHub Streak" />
+</div>
 
 ## ➦ **GitHub Activity Graph**
 
@@ -83,6 +98,12 @@ VS Code                                     ████████████
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
+
+## ➦ **GitHub Trophies**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sou1lah&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7&title=Stars,Commit,Followers,Repo,PR,Issue,PullRequest" />
 </p>
 
 ---
