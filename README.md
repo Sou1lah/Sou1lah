@@ -167,3 +167,10 @@ Linux                    51 mins             ███████████�
 </p>
 
 ![Snake animation](https://raw.githubusercontent.com/Sou1lah/Sou1lah/output/github-contribution-grid-snake-dark.svg)
+## 🎯 3D Contribution Graph
+
+![3D Contributions](https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-south-season-animate.svg)
+
+<!-- Or try other themes -->
+<!-- ![Green Theme](https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-green-animate.svg) -->
+<!-- ![Night View](https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-night-view.svg) -->
