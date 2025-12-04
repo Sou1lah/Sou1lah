@@ -115,7 +115,6 @@
 <table>
   <tr>
    <img src="https://i.pinimg.com/originals/07/c6/81/07c681507e673bdf54c54c64bc89c1d6.gif" width="100"style="margin-right: 30px">
-   <img src="https://i.pinimg.com/originals/0f/a6/d8/0fa6d803adde67a88849ebb93fe010b6.gif" width="150"style="margin-left: 200px">
   </tr>
   <tr>
     <td><p align="center">
@@ -147,5 +146,4 @@
 </details>
 </h4>
 
-<img src="https://www.nicepng.com/png/detail/152-1524796_dante-png-transparent-image-dante-marvel-vs-capcom.png" />
 
