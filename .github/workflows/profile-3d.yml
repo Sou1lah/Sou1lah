@@ -14,15 +14,27 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0  # Fetch all history to avoid sync issues
+          
+      - name: Pull latest changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git pull origin main --rebase --autostash
+          
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          
       - name: Commit & Push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
           git add -A .
-          if git commit -m "generated"; then
-            git push
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update 3D contribution graph [skip ci]"
+            git pull origin main --rebase --autostash
+            git push origin main
           fi
