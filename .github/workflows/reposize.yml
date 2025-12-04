@@ -11,5 +11,5 @@ jobs:
       - name: Calculate total repo size
         uses: ankitskvmdam/github-repo-size-badge-action@v1
         with:
-          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           username: Sou1lah
