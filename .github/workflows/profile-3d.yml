@@ -1,8 +1,8 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
+  schedule:
+    - cron: "0 18 * * *"  # Run at different time than WakaTime
   workflow_dispatch:
 
 permissions:
@@ -12,29 +12,25 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+    
     steps:
       - uses: actions/checkout@v5
         with:
-          fetch-depth: 0  # Fetch all history to avoid sync issues
-          
-      - name: Pull latest changes
+          token: ${{ secrets.GH_TOKEN }}  # ← Use same token as WakaTime
+      
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # ← Use same token here too
+          USERNAME: ${{ github.repository_owner }}
+      
+      - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git pull origin main --rebase --autostash
-          
-      - uses: yoshi389111/github-profile-3d-contrib@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-          
-      - name: Commit & Push
-        run: |
           git add -A .
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: update 3D contribution graph [skip ci]"
-            git pull origin main --rebase --autostash
-            git push origin main
+            git commit -m "chore: update 3D contribution graph"
+            git push
           fi
