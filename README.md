@@ -97,7 +97,9 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/1254bd6/profile-3d-contrib/profile-night-rainbow.svg">
+## 📊 3D GitHub Contributions
+
+![3D Contributions](https://github-profile-3d-contrib.vercel.app/api/?username=Sou1lah&theme=dracula)
 
 
 <!--🖼️⭐🔱STARRED REPOS & FORK PROFILE -->
