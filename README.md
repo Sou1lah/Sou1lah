@@ -201,3 +201,52 @@ Linux                    51 mins             ███████████�
     </td>
   </tr>
 </table>
+
+
+<!--🎲 3D CONTRIBUTIONS -->
+<h3 align="center">🎲 3D GitHub Contributions</h3>
+
+<!-- 3D Profile Contribution Graph -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-night-rainbow.svg" 
+       alt="3D Contributions - Night Rainbow" 
+       width="800">
+</p>
+
+<!-- Optional: Multiple themes in tabs -->
+<details>
+<summary><b>🎨 View Different 3D Themes</b></summary>
+<br>
+
+<p align="center">
+  <strong>🌙 Night Rainbow</strong><br>
+  <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-night-rainbow.svg" 
+       width="400">
+</p>
+
+<p align="center">
+  <strong>🌊 GitHub Skyline</strong><br>
+  <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-skyline.svg" 
+       width="400">
+</p>
+
+<p align="center">
+  <strong>🎯 Green</strong><br>
+  <img src="https://raw.githubusercontent.com/Sou1lah/Sou1lah/main/profile-3d-contrib/profile-green.svg" 
+       width="400">
+</p>
+
+</details>
+
+<!-- Instructions to generate -->
+<details>
+<summary><b>⚙️ How to Generate 3D Graph</b></summary>
+<br>
+<ol>
+  <li>Go to your repo's <b>Actions</b> tab</li>
+  <li>Find <b>"Test 3D Contributions"</b> workflow</li>
+  <li>Click <b>"Run workflow"</b> → <b>"Run workflow"</b></li>
+  <li>Wait 1-2 minutes for completion</li>
+  <li>Refresh your README to see the 3D graph</li>
+</ol>
+</details>
