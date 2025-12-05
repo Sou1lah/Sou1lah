@@ -95,7 +95,7 @@
 
 ## 📊 3D Contribution Graph
 
-![3D GitHub Contributions](https://github.com/Sou1lah/Sou1lah/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+![3D GitHub Contributions](https://raw.githubusercontent.com/Sou1lah/Sou1lah/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 
 <!--🖼️⭐🔱STARRED REPOS & FORK PROFILE -->
