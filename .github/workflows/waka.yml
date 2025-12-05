@@ -32,27 +32,27 @@ jobs:
           SHOW_LANGUAGE_ICON: "True"
           SHOW_LANGUAGE_PERCENTAGE: "True"
           SHOW_TIME: "True"
-          LANGUAGE_SECTION_TITLE: "### 🗣️ Languages"
+          LANGUAGE_SECTION_TITLE: "### ⌨️ Languages"
           
           # Editors SECTION - separate  
           SHOW_EDITORS: "True"
           SHOW_EDITORS_COUNT: "2"
           SHOW_EDITORS_TIME: "True"
-          EDITOR_SECTION_TITLE: "### 🛠️ Editors"
+          EDITOR_SECTION_TITLE: "###   Editors"
           
           # OS SECTION - separate
           SHOW_OS: "True"
           SHOW_OS_COUNT: "3"
-          OS_SECTION_TITLE: "### 💻 Operating Systems"
+          OS_SECTION_TITLE: "###   Operating Systems"
           
           # Projects SECTION - separate
           SHOW_PROJECTS: "True"
           SHOW_PROJECTS_COUNT: "5"
-          PROJECTS_SECTION_TITLE: "### 📁 Top Projects"
+          PROJECTS_SECTION_TITLE: "###   Top Projects"
           
           # Other stats - separate sections
           SHOW_COMMIT: "True"
-          COMMIT_SECTION_TITLE: "### 📅 Commit Activity"
+          COMMIT_SECTION_TITLE: "###   Commit Activity"
           SHOW_DAYS_OF_WEEK: "True"
           SHOW_TIMEZONE: "True"
           SHOW_LOC_CHART: "False"
