@@ -159,7 +159,7 @@ Linux                    11 hrs 41 mins      ███████████�
 
 ## 📊 3D Contribution Graph
 
-![3D GitHub Contributions](https://raw.githubusercontent.com/Sou1lah/Sou1lah/65c16a40298de441dda85924e6bee754497fc675/profile-3d-contrib/profile-night-rainbow.svg)
+![3D GitHub Contributions](https://raw.githubusercontent.com/Sou1lah/Sou1lah/d1184acc3199b9bfab195233b76765a110bc613b/profile-3d-contrib/profile-night-green.svg)
 
 
 <!--🖼️⭐🔱STARRED REPOS & FORK PROFILE -->
