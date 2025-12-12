@@ -35,7 +35,6 @@
 
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31txuookchndv4rkb35ayyzdm2le&width=450)
 
 
 
