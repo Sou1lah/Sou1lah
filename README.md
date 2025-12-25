@@ -113,16 +113,6 @@ Linux                    11 hrs 41 mins      ███████████�
 ##  GitHub Stats
 
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sou1lah&theme=dark&background=1a0f0f&border=8b0000&stroke=8b0000&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b" alt="GitHub Streak" />
-</div>
-
-<p align="center">
-  <!--START_SECTION:activity-->
-  <!--END_SECTION:activity-->
-</p>
-
-
 
 [![Sou1lah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sou1lah&bg_color=1a0f0f&color=ff6b6b&line=8b0000&point=ffcccb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
