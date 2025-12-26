@@ -1,13 +1,11 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sou1lah&color=8B0000&style=flat-square" height="25px"/>
-  <img src="https://img.shields.io/badge/Theme-Red-%238B0000?style=flat-square" height="25px"/>
+
+  <img alt="Total GitHub Stars" src="https://img.shields.io/github/stars/Sou1lah?color=8B0000&style=flat-square" height="25px"/>
 </p>
 
-<p align="center">
-  <img alt="Total GitHub Stars" src="https://img.shields.io/github/stars/Sou1lah?color=8B0000&style=flat-square" height="25px"/>
-  <img alt="Last Activity" src="https://img.shields.io/github/last-commit/sou1lah/sou1lah?color=8B0000&style=flat-square" height="25px"/>
-</p>
+
 
 
 ## ✆ **Connect With Me**
