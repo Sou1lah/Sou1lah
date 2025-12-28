@@ -27,7 +27,13 @@
 
 
 
+![example stats 1](https://leetcode-solved-problems.vercel.app/api?username={leetcode_id}&name={name_want_to_display})
 
+![example stats 2](https://leetcode-solved-problems.vercel.app/api?username={leetcode_id}&name={name_want_to_display}&bolder=false&title=false)
+
+![example calendar 1](https://leetcode-solved-problems.vercel.app/api?username={leetcode_id}&name={name_want_to_display}&type=calendar)
+
+![example calendar 2](https://leetcode-solved-problems.vercel.app/api?username={leetcode_id}&name={name_want_to_display}&type=calendar&bolder=false&title=false)
 
 
 
