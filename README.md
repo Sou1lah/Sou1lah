@@ -25,8 +25,15 @@
   </a>
 </p>
 
-![Sou1lah's GitHub stats (show reviews, discussions)](https://github-readme-stats.vercel.app/api?username=Sou1lah&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<p align="center">
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api?username=Sou1lah&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark" alt="Sou1lah's GitHub stats" height="180"/>
+  </span>
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sou1lah&layout=donut&theme=dark" alt="Top Langs (donut)" height="180"/>
+  </span>
+</p>
 
-![Top Langs (donut)](https://github-readme-stats.vercel.app/api/top-langs/?username=Sou1lah&layout=donut)
-<!-- WakaTime Stats Card -->
-![Sou1lah's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sou1lah)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sou1lah&theme=dark" alt="Sou1lah's WakaTime stats" height="180"/>
+</p>
