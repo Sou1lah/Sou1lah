@@ -24,7 +24,6 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-![Sou1lah's GitHub stats (hide contribs, PRs)](https://github-readme-stats.vercel.app/api?username=Sou1lah&hide=contribs,prs)
 
 ![Sou1lah's GitHub stats (show reviews, discussions)](https://github-readme-stats.vercel.app/api?username=Sou1lah&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
