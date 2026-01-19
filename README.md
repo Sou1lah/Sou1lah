@@ -24,5 +24,22 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+![Sou1lah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sou1lah&show_icons=true&theme=gruvbox)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sou1lah&stats_format=bytes)
+<!-- More GitHub Readme Stats cards -->
+![Sou1lah's GitHub stats (hide contribs, PRs)](https://github-readme-stats.vercel.app/api?username=Sou1lah&hide=contribs,prs)
+
+![Sou1lah's GitHub stats (show reviews, discussions)](https://github-readme-stats.vercel.app/api?username=Sou1lah&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+![Sou1lah's GitHub stats (commits in 2025)](https://github-readme-stats.vercel.app/api?username=Sou1lah&commits_year=2025)
+
+![Sou1lah's GitHub stats (radical theme)](https://github-readme-stats.vercel.app/api?username=Sou1lah&show_icons=true&theme=radical)
+
+![Sou1lah's GitHub stats (hide rank, title)](https://github-readme-stats.vercel.app/api?username=Sou1lah&hide_rank=true&hide_title=true)
+
+![Sou1lah's GitHub stats (French)](https://github-readme-stats.vercel.app/api?username=Sou1lah&locale=fr)
+
+![Top Langs (compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=Sou1lah&layout=compact)
+
+![Top Langs (donut)](https://github-readme-stats.vercel.app/api/top-langs/?username=Sou1lah&layout=donut)
