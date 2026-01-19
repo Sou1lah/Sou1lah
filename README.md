@@ -25,6 +25,7 @@
   </a>
 </p>
 ![Sou1lah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sou1lah&show_icons=true&theme=gruvbox)
+![Sou1lah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sou1lah&show_icons=true&theme=gruvbox)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sou1lah&stats_format=bytes)
 <!-- More GitHub Readme Stats cards -->
@@ -43,3 +44,5 @@
 ![Top Langs (compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=Sou1lah&layout=compact)
 
 ![Top Langs (donut)](https://github-readme-stats.vercel.app/api/top-langs/?username=Sou1lah&layout=donut)
+<!-- WakaTime Stats Card -->
+![Sou1lah's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sou1lah)
