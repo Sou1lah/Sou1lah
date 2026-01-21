@@ -33,7 +33,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sou1lah&layout=donut&theme=dark" alt="Top Langs (donut)" height="180"/>
   </span>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sou1lah&theme=dark" alt="Sou1lah's WakaTime stats" height="180"/>
-</p>
