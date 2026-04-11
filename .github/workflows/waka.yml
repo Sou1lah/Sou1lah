@@ -38,7 +38,7 @@ jobs:
           SHOW_EDITORS: "True"
           SHOW_EDITORS_COUNT: "2"
           SHOW_EDITORS_TIME: "True"
-          EDITOR_SECTION_TITLE: "###   Editors"
+          EDITOR_SECTION_TITLE: "###  Editors"
           
           # OS SECTION - separate
           SHOW_OS: "True"
