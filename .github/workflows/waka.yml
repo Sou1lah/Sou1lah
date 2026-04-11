@@ -2,22 +2,34 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"     # Every day at midnight UTC
+  workflow_dispatch:        # Run manually anytime
 
 permissions:
-  contents: write     # ← This is the important line (allows push)
+  contents: write
 
 jobs:
   update-readme:
-    name: Update README with WakaTime stats
+    name: Update WakaTime Stats
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+          # ── Cool Visual Tweaks ──
           SHOW_TITLE: true
-          TIME_RANGE: last_7_days
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          LANG_COUNT: 8
+          TIME_RANGE: last_7_days          # Options: last_7_days, last_30_days, all_time
+          SHOW_TOTAL: true                 # Total coding time
+          SHOW_TIME: true                  # Hours per language
+          SHOW_DAYS_OF_WEEK: true          # Your most productive days
+          SHOW_OS: true
+          SHOW_EDITORS: true
+          SHOW_PROJECTS: false             # Set true if you want project breakdown
+          SHOW_LINES_OF_CODE: true         # Total lines written
+
+          LANG_COUNT: 10                   # Show more languages
+          COMMIT_MESSAGE: "✨ Updated WakaTime stats automatically"
+
+          # Hide noisy stuff
+          IGNORED_LANGUAGES: JSON YAML TOML Markdown XML Binary CSS
