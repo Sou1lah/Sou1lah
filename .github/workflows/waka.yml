@@ -24,7 +24,7 @@ jobs:
           # Core stats
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_LINES_OF_CODE: "True"
-          SHOW_SHORT_INFO: "True"
+          SHOW_SHORT_INFO: "False"
           
           # Languages SECTION - separate
           SHOW_LANGUAGE: "True"
