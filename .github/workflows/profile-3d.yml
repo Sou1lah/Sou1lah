@@ -31,10 +31,12 @@ jobs:
           
           git add -A .
           
-          # Always commit with timestamp so GitHub updates the image even if the graph data is similar
+          # Try to commit (with timestamp)
           if git commit -m "chore: update 3D contribution graph $(date -u +'%Y-%m-%d %H:%M:%S UTC')"; then
+            # Pull latest changes first (rebase) then push
+            git pull --rebase origin main
             git push
-            echo "✅ 3D contribution graph updated and pushed"
+            echo "✅ 3D contribution graph updated and pushed successfully"
           else
-            echo "ℹ️  No changes to commit (graph may still be cached by GitHub)"
+            echo "ℹ️  No changes to commit (3D graph is the same as remote)"
           fi
