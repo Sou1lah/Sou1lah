@@ -1,8 +1,9 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
+  schedule:
+    # Every 2 hours (runs at :00 of every even hour)
+    - cron: "0 */2 * * *"
   workflow_dispatch:
 
 permissions:
@@ -11,18 +12,29 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
+    name: Generate GitHub Profile 3D Contributions
+
     steps:
-      - uses: actions/checkout@v5
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
+
+      - name: Commit & Push changes
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
           git add -A .
-          if git commit -m "generated"; then
+          
+          # Always commit with timestamp so GitHub updates the image even if the graph data is similar
+          if git commit -m "chore: update 3D contribution graph $(date -u +'%Y-%m-%d %H:%M:%S UTC')"; then
             git push
+            echo "✅ 3D contribution graph updated and pushed"
+          else
+            echo "ℹ️  No changes to commit (graph may still be cached by GitHub)"
           fi
