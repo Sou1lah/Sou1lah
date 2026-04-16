@@ -1,35 +1,35 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%2019%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.33%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.08%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Lua                      4 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   31.74 % 
-Python                   3 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
-Markdown                 2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-JavaScript               1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-HTML                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Lua                      4 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   38.02 % 
+Python                   2 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
+Markdown                 2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+HTML                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+YAML                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
 
 🔥 Editors: 
-Neovim                   10 hrs 30 mins      ██████████████████░░░░░░░   70.18 % 
-VS Code                  4 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   29.82 % 
+Neovim                   8 hrs 46 mins       ██████████████████░░░░░░░   71.54 % 
+VS Code                  3 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   28.46 % 
 
 🐱‍💻 Projects: 
-Unknown Project          7 hrs 7 mins        ████████████░░░░░░░░░░░░░   47.62 % 
-URL Shornter             3 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-Sou1lah                  1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-COVID_detection          51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-nvim                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Unknown Project          6 hrs 10 mins       █████████████░░░░░░░░░░░░   50.28 % 
+Sou1lah                  1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+URL Shornter             1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+COVID_detection          51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+nvim                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 
 💻 Operating System: 
-Linux                    14 hrs 58 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/04/2026 16:49:36 UTC
+ Last Updated on 16/04/2026 02:54:37 UTC
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-night-green.svg)
