@@ -7,29 +7,28 @@
 
 ```text
 💬 Programming Languages: 
-Lua                      2 hrs 28 mins       ████████████░░░░░░░░░░░░░   47.63 % 
-Python                   53 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-HTML                     44 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-TOML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+Lua                      2 hrs 17 mins       ███████████████░░░░░░░░░░   59.35 % 
+Python                   37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+HTML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+TOML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+mysql                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 
 🔥 Editors: 
-Neovim                   4 hrs 46 mins       ███████████████████████░░   91.45 % 
-VS Code                  26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Neovim                   3 hrs 25 mins       ██████████████████████░░░   88.50 % 
+VS Code                  26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 47 mins       ██████████████████░░░░░░░   72.72 % 
-Sticky Notes             37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-nvim                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-Sou1lah                  22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-wallpapers               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Unknown Project          2 hrs 49 mins       ██████████████████░░░░░░░   73.05 % 
+Sticky Notes             37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+nvim                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+wallpapers               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 💻 Operating System: 
-Linux                    5 hrs 12 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/04/2026 23:01:41 UTC
+ Last Updated on 20/04/2026 23:03:01 UTC
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-night-green.svg)
