@@ -7,28 +7,27 @@
 
 ```text
 💬 Programming Languages: 
-Lua                      2 hrs 17 mins       ███████████████░░░░░░░░░░   59.35 % 
-Python                   37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-HTML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-TOML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-mysql                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+Lua                      1 hr 2 mins         █████████░░░░░░░░░░░░░░░░   37.71 % 
+Python                   27 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+HTML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+PHP                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+TOML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 25 mins       ██████████████████████░░░   88.50 % 
-VS Code                  26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Neovim                   2 hrs 44 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 49 mins       ██████████████████░░░░░░░   73.05 % 
-Sticky Notes             37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-nvim                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-wallpapers               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Unknown Project          2 hrs 14 mins       ████████████████████░░░░░   81.35 % 
+Sticky Notes             17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Main Vault               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+wallpapers               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 💻 Operating System: 
-Linux                    3 hrs 52 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/04/2026 23:01:03 UTC
+ Last Updated on 21/04/2026 23:02:23 UTC
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-night-green.svg)
