@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2027%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.08%20million%20lines%20of%20code-blue?style=flat)
 
@@ -7,29 +7,29 @@
 
 ```text
 💬 Programming Languages: 
-HTML                     1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   27.74 % 
-PHP                      34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-CSS                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-Lua                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-Other                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+HTML                     1 hr 30 mins        ███████░░░░░░░░░░░░░░░░░░   29.76 % 
+PHP                      37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+CSS                      34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Other                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Lua                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 9 mins        █████████████░░░░░░░░░░░░   50.85 % 
-VS Code                  2 hrs 5 mins        ████████████░░░░░░░░░░░░░   49.15 % 
+VS Code                  2 hrs 56 mins       ██████████████░░░░░░░░░░░   57.61 % 
+Neovim                   2 hrs 9 mins        ███████████░░░░░░░░░░░░░░   42.39 % 
 
 🐱‍💻 Projects: 
-unishare                 2 hrs 3 mins        ████████████░░░░░░░░░░░░░   48.48 % 
-Unknown Project          1 hr 35 mins        █████████░░░░░░░░░░░░░░░░   37.47 % 
-Sticky Notes             17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-Main Vault               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-Sou1lah                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+unishare                 2 hrs 38 mins       █████████████░░░░░░░░░░░░   51.80 % 
+Unknown Project          1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   31.23 % 
+Sticky Notes             17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Main Vault               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+js                       10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 
 💻 Operating System: 
-Linux                    4 hrs 14 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/04/2026 23:01:24 UTC
+ Last Updated on 25/04/2026 23:02:30 UTC
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-night-green.svg)
