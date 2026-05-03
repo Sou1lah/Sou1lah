@@ -7,29 +7,29 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-Other                    54 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Lua                      44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Markdown                 37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-HTML                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+JavaScript               1 hr                █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+Other                    47 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Lua                      44 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Markdown                 37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Python                   29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 17 mins       ███████████████████░░░░░░   76.46 % 
-Neovim                   1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
+VS Code                  3 hrs 26 mins       ██████████████████░░░░░░░   72.26 % 
+Neovim                   1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   27.74 % 
 
 🐱‍💻 Projects: 
-hackathon                1 hr 45 mins        ████████░░░░░░░░░░░░░░░░░   31.40 % 
-coding                   1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-portfolio                56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Unknown Project          43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-unishare                 34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+hackathon                1 hr 45 mins        █████████░░░░░░░░░░░░░░░░   36.99 % 
+coding                   1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+portfolio                56 mins             █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+Unknown Project          43 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+ui                       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 💻 Operating System: 
-Linux                    5 hrs 36 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/05/2026 04:47:58 UTC
+ Last Updated on 03/05/2026 03:32:43 UTC
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-night-green.svg)
