@@ -35,5 +35,38 @@ Linux                    14 hrs 37 mins      ███████████�
 ![](./profile-3d-contrib/profile-night-green.svg)
 
 ## 📊 GitHub Metrics
-![](./github-metrics.svg)
-profile-3d-contrib/profile-night-green.svg)
+
+<details>
+  <summary>🚀 General Stats</summary>
+  <img src="./metrics.base.svg" alt="Base Metrics">
+</details>
+
+<details>
+  <summary>💻 Coding Languages</summary>
+  <img src="./metrics.plugin.languages.svg" alt="Languages">
+</details>
+
+<details>
+  <summary>📌 Starred Topics</summary>
+  <img src="./metrics.plugin.topics.svg" alt="Topics">
+</details>
+
+<details>
+  <summary>💡 Coding Habits</summary>
+  <img src="./metrics.plugin.habits.svg" alt="Habits">
+</details>
+
+<details>
+  <summary>🎵 Music Activity</summary>
+  <img src="./metrics.plugin.music.svg" alt="Music">
+</details>
+
+<details>
+  <summary>⏰ WakaTime Stats</summary>
+  <img src="./metrics.plugin.wakatime.svg" alt="WakaTime">
+</details>
+
+<details>
+  <summary>🗳️ LeetCode Stats</summary>
+  <img src="./metrics.plugin.leetcode.svg" alt="LeetCode">
+</details>
