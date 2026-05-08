@@ -17,6 +17,9 @@ jobs:
           config_timezone: America/New_York
           config_order: base.header, base.activity, base.community, base.repositories, languages, topics, habits, music, wakatime, leetcode, achievements
           config_padding: 0, 8%
+          config_width: 800
+          config_height: 1200
+          debug: yes
           
           # Languages
           plugin_languages: yes
