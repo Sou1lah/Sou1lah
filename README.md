@@ -33,5 +33,3 @@ Linux                    14 hrs 37 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-night-green.svg)
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31txuookchndv4rkb35ayyzdm2le&unique={true|1|on|yes})
