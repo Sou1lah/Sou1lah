@@ -36,18 +36,3 @@ Linux                    14 hrs 37 mins      ███████████�
 
 ## 📊 GitHub Metrics
 ![](./github-metrics.svg)
-
-### 🔗 External Profiles
-- [🗳️ LeetCode](https://leetcode.com/BRH1F6rBzt/)
-- [⏰ WakaTime](https://wakatime.com/@Sou1lah)
-- [🎵 Spotify](https://open.spotify.com/user/Sou1lah)
-
-### 🛠️ Metrics Plugins Implemented
-- [📚 Languages](https://github.com/lowlighter/metrics/blob/master/source/plugins/languages/README.md)
-- [📌 Topics](https://github.com/lowlighter/metrics/blob/master/source/plugins/topics/README.md)
-- [💡 Habits](https://github.com/lowlighter/metrics/blob/master/source/plugins/habits/README.md)
-- [🎼 Music](https://github.com/lowlighter/metrics/blob/master/source/plugins/music/README.md)
-- [⏰ WakaTime](https://github.com/lowlighter/metrics/blob/master/source/plugins/wakatime/README.md)
-- [🗳️ LeetCode](https://github.com/lowlighter/metrics/blob/master/source/plugins/leetcode/README.md)
-
-.
