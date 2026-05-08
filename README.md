@@ -33,3 +33,7 @@ Linux                    14 hrs 37 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-night-green.svg)
+
+## 📊 GitHub Metrics
+![](./github-metrics.svg)
+profile-3d-contrib/profile-night-green.svg)
