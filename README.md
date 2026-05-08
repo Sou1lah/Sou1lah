@@ -35,38 +35,17 @@ Linux                    14 hrs 37 mins      ███████████�
 ![](./profile-3d-contrib/profile-night-green.svg)
 
 ## 📊 GitHub Metrics
+![](./github-metrics.svg)
 
-<details>
-  <summary>🚀 General Stats</summary>
-  <img src="./metrics.base.svg" alt="Base Metrics">
-</details>
+### 🔗 External Profiles
+- [🗳️ LeetCode](https://leetcode.com/Sou1lah/)
+- [⏰ WakaTime](https://wakatime.com/@Sou1lah)
+- [🎵 Spotify](https://open.spotify.com/user/Sou1lah)
 
-<details>
-  <summary>💻 Coding Languages</summary>
-  <img src="./metrics.plugin.languages.svg" alt="Languages">
-</details>
-
-<details>
-  <summary>📌 Starred Topics</summary>
-  <img src="./metrics.plugin.topics.svg" alt="Topics">
-</details>
-
-<details>
-  <summary>💡 Coding Habits</summary>
-  <img src="./metrics.plugin.habits.svg" alt="Habits">
-</details>
-
-<details>
-  <summary>🎵 Music Activity</summary>
-  <img src="./metrics.plugin.music.svg" alt="Music">
-</details>
-
-<details>
-  <summary>⏰ WakaTime Stats</summary>
-  <img src="./metrics.plugin.wakatime.svg" alt="WakaTime">
-</details>
-
-<details>
-  <summary>🗳️ LeetCode Stats</summary>
-  <img src="./metrics.plugin.leetcode.svg" alt="LeetCode">
-</details>
+### 🛠️ Metrics Plugins Implemented
+- [📚 Languages](https://github.com/lowlighter/metrics/blob/master/source/plugins/languages/README.md)
+- [📌 Topics](https://github.com/lowlighter/metrics/blob/master/source/plugins/topics/README.md)
+- [💡 Habits](https://github.com/lowlighter/metrics/blob/master/source/plugins/habits/README.md)
+- [🎼 Music](https://github.com/lowlighter/metrics/blob/master/source/plugins/music/README.md)
+- [⏰ WakaTime](https://github.com/lowlighter/metrics/blob/master/source/plugins/wakatime/README.md)
+- [🗳️ LeetCode](https://github.com/lowlighter/metrics/blob/master/source/plugins/leetcode/README.md)

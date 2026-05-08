@@ -2,9 +2,6 @@ name: Metrics
 on:
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
 permissions:
   contents: write
 jobs:
@@ -52,7 +49,7 @@ jobs:
           
           # LeetCode
           plugin_leetcode: yes
-          plugin_leetcode_user: Sou1lah
+          plugin_leetcode_user: BRH1F6rBzt
           plugin_leetcode_sections: solved, skills, recent
           plugin_leetcode_limit_recent: 3
           plugin_leetcode_limit_skills: 10
