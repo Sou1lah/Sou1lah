@@ -7,6 +7,10 @@
   </a>
 </div>
 
+## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,idea,git,github,firebase,sqlite,figma,linux,neovim)](https://skillicons.dev)
+
 ![](./github-metrics.svg)
 
 ![](./profile-3d-contrib/profile-night-green.svg)
