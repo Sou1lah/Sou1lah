@@ -9,7 +9,7 @@
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,idea,git,github,firebase,sqlite,figma,linux,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,gradle,java,firebase,supabase,sqlite,postgres,mongodb,html,css,js,ts,react,nextjs,nodejs,express,tailwind,docker,git,github,linux,bash,neovim,vim,figma,md,regex,vercel,netlify)](https://skillicons.dev)
 
 ![](./github-metrics.svg)
 
